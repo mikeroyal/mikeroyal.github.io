@@ -1,5 +1,3 @@
-## Welcome to Michael's Blog
-
 
 
 ### Projects
@@ -7,10 +5,29 @@
 Coming Soon!
 
 
+
+
+
+
+
+
+
+
+
 ### Guides
 
 
 Coming Soon!
+
+
+
+
+
+
+
+
+
+
 
 
 
