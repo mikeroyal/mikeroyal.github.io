@@ -1,3 +1,7 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
 title: Welcome to Michael's Homepage
 description: A website to stay update on the projects and other fun things I'm currently working on.
+show_downloads: false
+github:
+  zip_url: 
+  another_url:
