@@ -1,4 +1,7 @@
+### About Me
+I am a highly motivated developer who is able to bring key analytical problem-solving skills & solutions to any project I approach. I infuse my own creativity and style to keep team members focused and meet deadlines under pressure with a high success rate; and having exceptional communication and organization skills that are needed to successfully achieve any deadline set for a project. 
 
+[Twitter](https://twitter.com/Miker256)  [Linkedin](https://www.linkedin.com/in/michael-royal-b923b4134/)
 
 ### Projects
 
