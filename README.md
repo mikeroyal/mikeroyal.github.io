@@ -4,6 +4,7 @@ I am a highly motivated developer who is able to bring key analytical problem-so
 [Twitter](https://twitter.com/Miker256)  [Linkedin](https://www.linkedin.com/in/michael-royal-b923b4134/)
 
 ### Links to Project Profiles
+
 [GitHub  ](https://github.com/mikeroyal)|[ GitLab  ](https://gitlab.com/maos20008)|[ Debian GitLab](https://salsa.debian.org/mikeroyal-guest)
 
 [Gnome GitLab  ](https://gitlab.gnome.org/maos20008)|[ KDE GitLab  ](https://invent.kde.org/mikeroyal)|[ Manjaro GitLab](https://gitlab.manjaro.org/mikeroyal?nav_source=navbar)
