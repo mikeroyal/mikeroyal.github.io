@@ -3,7 +3,7 @@ I am a highly motivated developer who is able to bring key analytical problem-so
 
 [Twitter](https://twitter.com/Miker256)  [Linkedin](https://www.linkedin.com/in/michael-royal-b923b4134/)
 
-### Links to Projects
+### Links to Project Profiles
 [GitHub](https://github.com/mikeroyal)
 
 [GitLab](https://gitlab.com/maos20008)
