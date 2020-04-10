@@ -16,6 +16,8 @@ I am a highly motivated developer who is able to bring key analytical problem-so
 
 [Manjaro GitLab](https://gitlab.manjaro.org/mikeroyal?nav_source=navbar)
 
+[Launchpad](https://launchpad.net/~maos20008)
+
 [Royal Games](https://r0yalgames.wixsite.com/royalgames)
 
 ### Project Contributions
