@@ -5,16 +5,14 @@ I am a highly motivated developer who is able to bring key analytical problem-so
 
 ### Links to Project Profiles
 
-[GitHub  ](https://github.com/mikeroyal)|[ GitLab  ](https://gitlab.com/maos20008)|[ Debian GitLab](https://salsa.debian.org/mikeroyal-guest)
+[GitHub  ](https://github.com/mikeroyal)|[ GitLab  ](https://gitlab.com/maos20008)|[ Debian GitLab](https://salsa.debian.org/mikeroyal-guest)|[ Launchpad ](https://launchpad.net/~maos20008)
 
 [Gnome GitLab  ](https://gitlab.gnome.org/maos20008)|[ KDE GitLab  ](https://invent.kde.org/mikeroyal)|[ Manjaro GitLab](https://gitlab.manjaro.org/mikeroyal?nav_source=navbar)
 
-[Launchpad  ](https://launchpad.net/~maos20008)|[ Royal Games](https://r0yalgames.wixsite.com/royalgames)
-
 ### Project Contributions
-[Project Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4458397/Project.Contributions.pdf)
+[Project Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4465660/Project.Contributions.pdf)
 
-![project contributions](https://user-images.githubusercontent.com/45159366/78936153-df4d7300-7a62-11ea-83be-75dd2b1bef46.png)
+![Project Contributions](https://user-images.githubusercontent.com/45159366/79057493-077dd300-7c17-11ea-9c34-9e1857c8c19b.png)
 
 ### Guides
 
