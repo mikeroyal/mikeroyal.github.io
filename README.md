@@ -12,7 +12,7 @@ I am a highly motivated developer who is able to bring key analytical problem-so
 ### Project Contributions
 [Project Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4465660/Project.Contributions.pdf)
 
-![Project Contributions](https://user-images.githubusercontent.com/45159366/79057493-077dd300-7c17-11ea-9c34-9e1857c8c19b.png)
+![Project Contributions](https://user-images.githubusercontent.com/45159366/79078642-9134ab80-7cbe-11ea-9221-79b33082fab8.png)
 
 ### Guides
 
