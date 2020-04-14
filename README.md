@@ -10,9 +10,9 @@ I am a highly motivated developer who is able to bring key analytical problem-so
 [Gnome GitLab  ](https://gitlab.gnome.org/maos20008)|[ KDE GitLab  ](https://invent.kde.org/mikeroyal)|[ Manjaro GitLab](https://gitlab.manjaro.org/mikeroyal?nav_source=navbar)
 
 ### Project Contributions
-[Project Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4465660/Project.Contributions.pdf)
+[Project Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4477793/Project.Contributions.pdf)
 
-![Project Contributions](https://user-images.githubusercontent.com/45159366/79078642-9134ab80-7cbe-11ea-9221-79b33082fab8.png)
+![Project Contributions](https://user-images.githubusercontent.com/45159366/79274651-bd386400-7e59-11ea-8ad3-2a6fff8cc00c.png)
 
 ### Guides
 
