@@ -18,8 +18,10 @@ I am a highly motivated developer who is able to bring key analytical problem-so
 
 [DevOps Guide](https://salsa.debian.org/mikeroyal-guest/devops)
 
-[Open Source Robotics Guide](https://gitlab.com/maos20008/robotics)
+[Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning)
 
-[Open Source Security Guide](https://gitlab.com/maos20008/open-source-security-guide)
+[Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
+
+[Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
 
 [Open Source 3D Modeling Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
