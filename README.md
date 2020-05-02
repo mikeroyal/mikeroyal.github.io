@@ -20,6 +20,8 @@ I am a highly motivated developer who is able to bring key analytical problem-so
 
 [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning)
 
+[IoT Guide](https://github.com/mikeroyal/IoT-Guide)
+
 [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
 
 [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
