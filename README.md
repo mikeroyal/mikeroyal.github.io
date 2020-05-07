@@ -1,3 +1,7 @@
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/81243342-6c350f00-8fc4-11ea-9037-9cbe0f7bf3ff.png">
+</h1>
+
 ### About Me
 I am a highly motivated developer who is able to bring key analytical problem-solving skills & solutions to any project I approach. I infuse my own creativity and style to keep team members focused and meet deadlines under pressure with a high success rate; and having exceptional communication and organization skills that are needed to successfully achieve any deadline set for a project. 
 
