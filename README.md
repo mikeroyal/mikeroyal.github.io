@@ -9,9 +9,9 @@ I am a highly motivated developer who is able to bring key analytical problem-so
 
 ### Links to Project Profiles
 
-[GitHub  ](https://github.com/mikeroyal)|[ GitLab  ](https://gitlab.com/maos20008)|[ Debian GitLab](https://salsa.debian.org/mikeroyal-guest)|[ Launchpad ](https://launchpad.net/~maos20008)
+[GitHub  ](https://github.com/mikeroyal)|[ GitLab  ](https://gitlab.com/maos20008)|[ Debian GitLab](https://salsa.debian.org/mikeroyal-guest) | [Ubuntu](https://discourse.ubuntu.com/u/khaotic/summary) | [ Launchpad ](https://launchpad.net/~maos20008)
 
-[Gnome GitLab  ](https://gitlab.gnome.org/maos20008)|[ KDE GitLab  ](https://invent.kde.org/mikeroyal)| [Manjaro GitLab  ](https://gitlab.manjaro.org/mikeroyal?nav_source=navbar)
+[Gnome GitLab  ](https://gitlab.gnome.org/maos20008)|[ KDE GitLab  ](https://invent.kde.org/mikeroyal)| [Manjaro GitLab  ](https://gitlab.manjaro.org/mikeroyal?nav_source=navbar) | [Xfce GitLab](https://gitlab.xfce.org/mikeroyal)
 
 ### Project Contributions
 [Project Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4536764/Project.Contributions.pdf)
