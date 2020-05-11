@@ -9,7 +9,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 ### Links to Project Profiles
 
-[GitHub](https://github.com/mikeroyal)|[GitLab](https://gitlab.com/maos20008)|[Debian GitLab](https://salsa.debian.org/mikeroyal-guest) |[Gnome GitLab](https://gitlab.gnome.org/maos20008)|[KDE GitLab](https://invent.kde.org/mikeroyal)| [Manjaro GitLab](https://gitlab.manjaro.org/mikeroyal?nav_source=navbar)|[Xfce GitLab](https://gitlab.xfce.org/mikeroyal)
+[GitHub](https://github.com/mikeroyal)|[GitLab](https://gitlab.com/maos20008)|[Debian](https://salsa.debian.org/mikeroyal-guest) |[Gnome](https://gitlab.gnome.org/maos20008)|[KDE](https://invent.kde.org/mikeroyal)| [Manjaro](https://gitlab.manjaro.org/mikeroyal?nav_source=navbar)|[Xfce](https://gitlab.xfce.org/mikeroyal)
 
 [Ubuntu](https://discourse.ubuntu.com/u/khaotic/summary)|[Launchpad](https://launchpad.net/~maos20008)|[Fedora](https://discussion.fedoraproject.org/u/miker256/summary)|[ROS](https://discourse.ros.org/u/miker256/summary)|[LLVM](https://llvm.discourse.group/u/miker256/summary)|[Blender](https://devtalk.blender.org/u/miker256/summary)|[Kubernetes](https://discuss.kubernetes.io/u/miker256/summary)|[AMD](https://community.amd.com/people/miker256)|[Nvidia](https://forums.developer.nvidia.com/u/mikeroyal/summary)
 
