@@ -20,8 +20,6 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 ### Guides
 
-[DevOps Guide](https://salsa.debian.org/mikeroyal-guest/devops)| [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning)
+[DevOps Guide](https://salsa.debian.org/mikeroyal-guest/devops) | [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning) | [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
 
-[IoT Guide](https://github.com/mikeroyal/IoT-Guide)| [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
-
-[Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)| [Open Source 3D Modeling Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
+[IoT Guide](https://github.com/mikeroyal/IoT-Guide)|[Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide) [Open Source 3D Modeling Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
