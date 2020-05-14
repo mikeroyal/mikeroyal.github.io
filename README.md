@@ -9,9 +9,9 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 ### Links to Project Profiles
 
-[GitHub](https://github.com/mikeroyal)|[GitLab](https://gitlab.com/maos20008)|[Debian](https://salsa.debian.org/mikeroyal-guest) |[GNOME](https://gitlab.gnome.org/maos20008)|[KDE](https://invent.kde.org/mikeroyal)| [Manjaro](https://gitlab.manjaro.org/mikeroyal?nav_source=navbar)|[XFCE](https://gitlab.xfce.org/mikeroyal)|[Ubuntu](https://discourse.ubuntu.com/u/khaotic/summary)|[MAAS](https://discourse.maas.io/u/miker256/summary)|[Launchpad](https://launchpad.net/~maos20008)| [Fedora](https://discussion.fedoraproject.org/u/miker256/summary) | [Jupyter ](https://discourse.jupyter.org/u/miker256/summary)
+[GitHub](https://github.com/mikeroyal)|[GitLab](https://gitlab.com/maos20008)|[Debian](https://salsa.debian.org/mikeroyal-guest) |[GNOME](https://gitlab.gnome.org/maos20008)|[KDE](https://invent.kde.org/mikeroyal)| [Manjaro](https://gitlab.manjaro.org/mikeroyal?nav_source=navbar)|[XFCE](https://gitlab.xfce.org/mikeroyal)|[Ubuntu](https://discourse.ubuntu.com/u/khaotic/summary)|[Launchpad](https://launchpad.net/~maos20008)| [Fedora](https://discussion.fedoraproject.org/u/miker256/summary)
 
-[PyTorch](https://discuss.pytorch.org/u/miker256/summary)|[ARM](https://community.arm.com/members/miker256)|[ROS](https://discourse.ros.org/u/miker256/summary)|[Atlassian](https://community.developer.atlassian.com/u/mikeroyal/summary)|[Elastic](https://discuss.elastic.co/u/miker256/summary)|[HashiCorp](https://discuss.hashicorp.com/u/mikeroyal/summary)|[LLVM](https://llvm.discourse.group/u/miker256/summary)|[Khronos](https://community.khronos.org/u/miker256/summary)|[Blender](https://devtalk.blender.org/u/miker256/summary)|[Kubernetes](https://discuss.kubernetes.io/u/miker256/summary)|[AMD](https://community.amd.com/people/miker256)|[Nvidia](https://forums.developer.nvidia.com/u/mikeroyal/summary)
+[PyTorch](https://discuss.pytorch.org/u/miker256/summary)|[ARM](https://community.arm.com/members/miker256)|[ROS](https://discourse.ros.org/u/miker256/summary)|[Atlassian](https://community.developer.atlassian.com/u/mikeroyal/summary)|[LLVM](https://llvm.discourse.group/u/miker256/summary)|[Khronos](https://community.khronos.org/u/miker256/summary)|[Blender](https://devtalk.blender.org/u/miker256/summary)|[Kubernetes](https://discuss.kubernetes.io/u/miker256/summary)|[AMD](https://community.amd.com/people/miker256)|[Nvidia](https://forums.developer.nvidia.com/u/mikeroyal/summary)
 
 ### Project Contributions
 [Project Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4536764/Project.Contributions.pdf)
@@ -20,6 +20,4 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 ### Guides
 
-[DevOps Guide](https://salsa.debian.org/mikeroyal-guest/devops) | [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning) | [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
-
-[IoT Guide](https://github.com/mikeroyal/IoT-Guide)|[Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)| [Open Source 3D Modeling Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
+[DevOps](https://salsa.debian.org/mikeroyal-guest/devops)| [IoT](https://github.com/mikeroyal/IoT-Guide)|[Machine Learning ](https://gitlab.com/maos20008/intro-to-machine-learning) | [Open Source Robotics](https://invent.kde.org/mikeroyal/robotics)|[Open Source Security](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)| [Open Source 3D Modeling](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
