@@ -15,6 +15,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 [JuliaLang](https://discourse.julialang.org/u/miker256)|[MXNet](https://discuss.mxnet.io/u/miker256/summary)|[Elastic](https://discuss.elastic.co/u/miker256/summary)|[HashiCorp](https://discuss.hashicorp.com/u/mikeroyal/summary)|[Mozilla](https://discourse.mozilla.org/u/miker256/summary)|[Grafana](https://community.grafana.com/u/mikeroyal/summary)|[Istio](https://discuss.istio.io/u/mikeroyal/summary)|[Jupyter](https://discourse.jupyter.org/u/miker256/summary)|[Azure](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/463780)|[AWS](https://forums.aws.amazon.com/category.jspa?categoryID=3)
 
+[Kotlin](https://discuss.kotlinlang.org/u/miker256/summary)|[Swift](https://forums.swift.org/u/miker256/summary)|[Apple](https://forums.developer.apple.com/people/mikeroyal)|[FoundationDB](https://forums.foundationdb.org/u/miker256/summary)|[Scala](https://contributors.scala-lang.org/u/mikeroyal/summary)|[Rust](https://users.rust-lang.org/u/miker256/summary)|[Linux_Foundation](https://forum.linuxfoundation.org/profile/mikeroyal)|[Unreal_Engine](https://forums.unrealengine.com/member/3563050-khaotic_256)
+
 ### Project Contributions
 [Project Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4536764/Project.Contributions.pdf)
 
