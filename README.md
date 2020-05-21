@@ -7,7 +7,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 [Twitter](https://twitter.com/Miker256) | [Linkedin](https://www.linkedin.com/in/michael-royal-b923b4134/) | [Résumé](https://github.com/mikeroyal/mikeroyal.github.io/files/4640778/Michael_R_Resume.pdf)
 
-### Links to Project Profiles
+### Links to Project Profiles & Contributions
 
 [GitHub](https://github.com/mikeroyal)|[GitLab](https://gitlab.com/maos20008)|[Debian](https://salsa.debian.org/mikeroyal-guest) |[Gnome](https://gitlab.gnome.org/maos20008)|[KDE](https://invent.kde.org/mikeroyal)| [Manjaro](https://gitlab.manjaro.org/mikeroyal?nav_source=navbar)|[Xfce](https://gitlab.xfce.org/mikeroyal)|[Ubuntu](https://discourse.ubuntu.com/u/khaotic/summary)|[Launchpad](https://launchpad.net/~maos20008)| [Fedora](https://discussion.fedoraproject.org/u/miker256/summary)
 
@@ -15,14 +15,15 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 [JuliaLang](https://discourse.julialang.org/u/miker256)|[MXNet](https://discuss.mxnet.io/u/miker256/summary)|[Elastic](https://discuss.elastic.co/u/miker256/summary)|[HashiCorp](https://discuss.hashicorp.com/u/mikeroyal/summary)|[Mozilla](https://discourse.mozilla.org/u/miker256/summary)|[Grafana](https://community.grafana.com/u/mikeroyal/summary)|[Istio](https://discuss.istio.io/u/mikeroyal/summary)|[Jupyter](https://discourse.jupyter.org/u/miker256/summary)|[Azure](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/463780)|[AWS](https://forums.aws.amazon.com/category.jspa?categoryID=3)
 
-[Kotlin](https://discuss.kotlinlang.org/u/miker256/summary)|[Swift](https://forums.swift.org/u/miker256/summary)|[Apple](https://forums.developer.apple.com/people/mikeroyal)|[FoundationDB](https://forums.foundationdb.org/u/miker256/summary)|[Rust](https://users.rust-lang.org/u/miker256/summary)|[.NET](https://forums.dotnetfoundation.org/u/miker256/summary)|[LXD](https://discuss.linuxcontainers.org/u/miker256/summary)|[LinuxFoundation](https://forum.linuxfoundation.org/profile/mikeroyal)|[UnrealEngine](https://forums.unrealengine.com/member/3563050-khaotic_256)
+[Kotlin](https://discuss.kotlinlang.org/u/miker256/summary)|[Swift](https://forums.swift.org/u/miker256/summary)|[Apple](https://forums.developer.apple.com/people/mikeroyal)|[FoundationDB](https://forums.foundationdb.org/u/miker256/summary)|[Rust](https://users.rust-lang.org/u/miker256/summary)|[LinuxFoundation](https://forum.linuxfoundation.org/profile/mikeroyal)|[UnrealEngine](https://forums.unrealengine.com/member/3563050-khaotic_256)|[LXD](https://discuss.linuxcontainers.org/u/miker256/summary)|[GCP](https://groups.google.com/forum/#!forum/google-cloud-dev)
 
 [Adobe](https://community.adobe.com/t5/user/viewprofilepage/user-id/17269185)|[Scala](https://contributors.scala-lang.org/u/mikeroyal/summary)|[TensorFlow](https://groups.google.com/a/tensorflow.org/forum/#!forum/developers)|[ONNX](https://gitter.im/onnx/Lobby#)|[Nextcloud](https://help.nextcloud.com/u/miker256/summary)|[DigitalOcean](https://www.digitalocean.com/community/users/miker256)|[Pi_hole](https://discourse.pi-hole.net/u/miker256/summary)|[CircleCI](https://discuss.circleci.com/u/miker256/summary)|[HUGO](https://discourse.gohugo.io/u/miker256/summary)
 
-### Project Contributions
-[Project Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4536764/Project.Contributions.pdf)
+[.NET](https://forums.dotnetfoundation.org/u/miker256/summary)|[NodeRED](https://discourse.nodered.org/u/miker256)|[Scikit_learn](https://gitter.im/scikit-learn/scikit-learn)|[Raspberry_Pi](https://www.raspberrypi.org/forums/memberlist.php?mode=viewprofile&u=miker256)|[Knative](https://groups.google.com/forum/#!forum/knative-dev)|[Kubeflow](https://groups.google.com/forum/#!forum/kubeflow-discuss)|[Kubevirt](https://groups.google.com/forum/#!forum/kubevirt-dev)|[Chromium](https://groups.google.com/a/chromium.org/forum/#!forum/chromium-os-discuss)
 
-![project contributions](https://user-images.githubusercontent.com/45159366/80323848-acd1a300-87e2-11ea-9e0d-261de4575a8e.png)
+[Project Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4663758/Project.Contributions.pdf)
+
+![Project Contributions](https://user-images.githubusercontent.com/45159366/82585991-c056fc00-9b4b-11ea-8bda-c500b9c15649.png)
 
 ### Guides
 
