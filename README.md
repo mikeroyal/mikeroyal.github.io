@@ -34,4 +34,4 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 [IoT Guide](https://github.com/mikeroyal/IoT-Guide)|[Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)| [Open Source Graphics Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
 
-[WSL Guide](https://github.com/mikeroyal/WSL-Guide)|[Networking Guide](https://github.com/mikeroyal/Networking-Guide)|[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)
+[WSL Guide](https://github.com/mikeroyal/WSL-Guide)|[Networking Guide](https://github.com/mikeroyal/Networking-Guide)|[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)|[Agile Guide](https://github.com/mikeroyal/Agile-Guide)
