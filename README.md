@@ -23,6 +23,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 [UbuntuMATE](https://ubuntu-mate.community/u/mikeroyal/summary)|[MAAS](https://discourse.maas.io/u/miker256/summary)|[Juju](https://discourse.jujucharms.com/u/miker256)|[Snapcraft.io](https://forum.snapcraft.io/u/miker256/summary)|[Flatpak](https://discourse.flathub.org/u/miker256/summary)|[Wayland](https://gitlab.freedesktop.org/mikeroyal)|[Ceph](https://lists.ceph.io/hyperkitty/list/dev@ceph.io/)|[OpenShift](https://groups.google.com/forum/#!forum/openshift)|[Ansible](https://groups.google.com/forum/#!forum/ansible-devel)
 
+[Lubuntu](https://phab.lubuntu.me/p/miker256/)|[Atom](https://discuss.atom.io/u/miker256/summary)|[Puppet](https://groups.google.com/forum/#!forum/puppet-dev)| [Prometheus](https://groups.google.com/forum/#!forum/prometheus-developers) |[InfluxDB](https://community.influxdata.com/u/miker256/summary)|[Qt](https://forum.qt.io/user/miker256)|[Quarkus](https://groups.google.com/forum/#!forum/quarkus-dev)|[Spring_Boot](https://gitter.im/spring-projects/spring-boot)|[MongoDB](https://developer.mongodb.com/community/forums/u/mikeroyal)
 
 [Project Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4663758/Project.Contributions.pdf)
 
