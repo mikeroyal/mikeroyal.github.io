@@ -27,6 +27,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 [Ubuntu_Budgie](https://discourse.ubuntubudgie.org/u/miker256)|[Intel_Clear_Linux](https://community.clearlinux.org/u/miker256/summary)|[Drone](https://discourse.drone.io/u/miker256/summary)|[Travis_CI](https://travis-ci.community/u/miker256/summary)|[RISC_V](https://groups.google.com/a/groups.riscv.org/forum/#!forum/hw-dev)|[Rancher](https://forums.rancher.com/u/miker256/summary)|[Flutter](https://groups.google.com/forum/#!forum/flutter-dev)|[Python](https://python-forum.io/User-miker256)
 
+NixOS](https://discourse.nixos.org/u/miker256/summary)|[SonarQube](https://community.sonarsource.com/u/miker256/summary)|[Fwupd](https://groups.google.com/forum/#!forum/fwupd)|[RabbitMQ](https://groups.google.com/forum/#!forum/rabbitmq-users)|[Envoy](https://groups.google.com/forum/#!forum/envoy-dev)|[Rook](https://groups.google.com/forum/#!forum/rook-dev)|[LinuxBoot](https://groups.google.com/forum/#!forum/linuxboot)|[Memcached](https://groups.google.com/forum/#!forum/memcached)|[Jenkins](https://groups.google.com/forum/#!forum/jenkins-platform-sig)
+
 [Project Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4663758/Project.Contributions.pdf)
 
 ![Project Contributions](https://user-images.githubusercontent.com/45159366/83294200-c8451a80-a1a1-11ea-9f8d-6931d685dee2.png)
