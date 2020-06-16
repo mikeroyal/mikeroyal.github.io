@@ -15,22 +15,23 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 ### Guides
 
-[DevOps Guide](https://salsa.debian.org/mikeroyal-guest/devops)
+1.[DevOps Guide](https://salsa.debian.org/mikeroyal-guest/devops)
 
-[Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning)
+2. [IoT Guide](https://github.com/mikeroyal/IoT-Guide)
 
-[Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
+3. [WSL Guide](https://github.com/mikeroyal/WSL-Guide)
 
-[IoT Guide](https://github.com/mikeroyal/IoT-Guide)
+4. [Agile Guide](https://github.com/mikeroyal/Agile-Guide)
 
-[Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
+5. [Networking Guide](https://github.com/mikeroyal/Networking-Guide)
 
-[Open Source Graphics Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
+6. [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning)
 
-[WSL Guide](https://github.com/mikeroyal/WSL-Guide)
+7. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
 
-[Networking Guide](https://github.com/mikeroyal/Networking-Guide)
+8. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
 
-[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)
+9. [Open Source Graphics Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
 
-[Agile Guide](https://github.com/mikeroyal/Agile-Guide)
+10. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)
+
