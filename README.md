@@ -15,7 +15,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 ### Guides
 
-1.[DevOps Guide](https://salsa.debian.org/mikeroyal-guest/devops)
+1. [DevOps Guide](https://salsa.debian.org/mikeroyal-guest/devops)
 
 2. [IoT Guide](https://github.com/mikeroyal/IoT-Guide)
 
