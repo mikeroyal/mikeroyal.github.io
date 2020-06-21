@@ -7,6 +7,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 [Twitter](https://twitter.com/Miker256)|[Linkedin](https://www.linkedin.com/in/michael-royal-b923b4134/)|[Résumé](https://github.com/mikeroyal/mikeroyal.github.io/files/4640778/Michael_R_Resume.pdf)
 
+[![Twitter](https://user-images.githubusercontent.com/45159366/85232461-d0186900-b3b3-11ea-9aca-2a8f86b47932.png)](https://twitter.com/Miker256)[![Linkedin](https://user-images.githubusercontent.com/45159366/85232462-d27ac300-b3b3-11ea-84bd-db0dc26882ef.png)](https://www.linkedin.com/in/michael-royal-b923b4134/)[![Resume](https://user-images.githubusercontent.com/45159366/85232464-d4448680-b3b3-11ea-80b4-e2955ee390c3.png)](https://github.com/mikeroyal/mikeroyal.github.io/files/4640778/Michael_R_Resume.pdf)
+
 ### Links to Project Profiles & Contributions
 
 [Project Profiles & Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4808492/Links.to.Project.Contributions.pdf)
