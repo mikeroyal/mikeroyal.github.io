@@ -3,7 +3,7 @@
 </h1>
 
 ### About Me
-I am a highly motivated engineer who is able to bring key analytical problem-solving skills & solutions to any project I approach. I infuse my own creativity and style to keep team members focused and meet deadlines under pressure with a high success rate; and having exceptional communication and organization skills that are needed to successfully achieve any deadline set for a project. 
+I am a highly motivated engineer who is able to bring key analytical problem-solving skills & solutions to any project I approach. I infuse my own creativity and style to keep team members focused and meet deadlines under pressure with a high success rate; and having exceptional communication and organization skills that are needed to successfully achieve any deadline set for a project. In my free time I'm contributing to many open source projects, playing my guitar, and occasionally playing some videogames.
 
 [![Twitter](https://user-images.githubusercontent.com/45159366/85232461-d0186900-b3b3-11ea-9aca-2a8f86b47932.png)](https://twitter.com/Miker256)[![Linkedin](https://user-images.githubusercontent.com/45159366/85232462-d27ac300-b3b3-11ea-84bd-db0dc26882ef.png)](https://www.linkedin.com/in/michael-royal-b923b4134/)[![Resume](https://user-images.githubusercontent.com/45159366/85232464-d4448680-b3b3-11ea-80b4-e2955ee390c3.png)](https://github.com/mikeroyal/mikeroyal.github.io/files/4640778/Michael_R_Resume.pdf)
 
