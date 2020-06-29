@@ -9,9 +9,9 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 ### Links to Project Profiles & Contributions
 
-[Project Profiles & Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4808492/Links.to.Project.Contributions.pdf)
+[Project Profiles & Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4848225/Links.to.Project.Contributions.pdf)
 
-![Project Profiles & Contributions](https://user-images.githubusercontent.com/45159366/85210747-73577880-b2f7-11ea-8727-b64e50f0d0dc.png)
+![Project Profiles & Contributions](https://user-images.githubusercontent.com/45159366/86059817-61bd5180-ba18-11ea-866b-898fbaed8c38.png)
 
 ### Guides
 
