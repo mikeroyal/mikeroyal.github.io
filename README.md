@@ -11,7 +11,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 [Project Profiles & Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4875593/Links.to.Project.Contributions.pdf)
 
-![Project Profiles & Contributions](https://user-images.githubusercontent.com/45159366/86541867-5f01a700-bec5-11ea-9ddb-f6f5569a1f66.png)
+![Project Profiles & Contributions](https://user-images.githubusercontent.com/45159366/86542054-ed2a5d00-bec6-11ea-875e-9909383fe64c.png)
 
 ### Guides
 
