@@ -25,13 +25,15 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 5. [Networking Guide](https://github.com/mikeroyal/Networking-Guide)
 
-6. [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning)
+6. [Cloud Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)
 
-7. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
+7. [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning)
 
-8. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
+8. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
 
-9. [Open Source Graphics Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
+9. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
 
-10. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)
+10. [Open Source Graphics Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
+
+11. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)
 
