@@ -25,7 +25,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 5. [Networking Guide](https://github.com/mikeroyal/Networking-Guide)
 
-6. [Cloud Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)
+6. [Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)
 
 7. [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning)
 
