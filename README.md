@@ -37,3 +37,5 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 11. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)
 
+12. [Working Remote Guide](https://github.com/mikeroyal/Working-Remote-Guide)
+
