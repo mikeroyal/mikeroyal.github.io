@@ -39,3 +39,5 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 12. [Working Remote Guide](https://github.com/mikeroyal/Working-Remote-Guide)
 
+
+14.[Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)
