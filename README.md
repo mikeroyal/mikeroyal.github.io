@@ -43,6 +43,6 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 14. [Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)
 
-15. Rust Programming Guide
+15. [Rust_lang Guide](https://github.com/mikeroyal/Rust_lang-Guide)
 
 16. [SQL Guide](https://github.com/mikeroyal/SQL-Guide)
