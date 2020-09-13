@@ -42,3 +42,5 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 13. [Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)
 
 14. [Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)
+
+15. Rust Programming Guide
