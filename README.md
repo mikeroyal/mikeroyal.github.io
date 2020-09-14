@@ -46,3 +46,5 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 15. [Rust_lang Guide](https://github.com/mikeroyal/Rust_lang-Guide)
 
 16. [SQL Guide](https://github.com/mikeroyal/SQL-Guide)
+
+17. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide)
