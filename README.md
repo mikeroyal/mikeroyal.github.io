@@ -50,3 +50,5 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 17. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide)
 
 18. [Python Guide](https://github.com/mikeroyal/Python-Guide)
+
+19. [Linux Guide](https://github.com/mikeroyal/Linux-Guide)
