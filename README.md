@@ -21,7 +21,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 3. [WSL Guide](https://github.com/mikeroyal/WSL-Guide)
 
-4. [Agile Guide](https://github.com/mikeroyal/Agile-Guide)
+4. [Linux Guide](https://github.com/mikeroyal/Linux-Guide)
 
 5. [Networking Guide](https://github.com/mikeroyal/Networking-Guide)
 
@@ -29,26 +29,26 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 7. [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning)
 
-8. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
+8. [Rust_lang Guide](https://github.com/mikeroyal/Rust_lang-Guide)
 
-9. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
+9. [SQL Guide](https://github.com/mikeroyal/SQL-Guide)
 
-10. [Open Source Graphics Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
+10. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide)
 
-11. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)
+11. [Python Guide](https://github.com/mikeroyal/Python-Guide)
 
-12. [Working Remote Guide](https://github.com/mikeroyal/Working-Remote-Guide)
+12. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
 
-13. [Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)
+13. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
 
-14. [Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)
+14. [Open Source Graphics Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
 
-15. [Rust_lang Guide](https://github.com/mikeroyal/Rust_lang-Guide)
+15. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)
 
-16. [SQL Guide](https://github.com/mikeroyal/SQL-Guide)
+16. [Working Remote Guide](https://github.com/mikeroyal/Working-Remote-Guide)
 
-17. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide)
+17. [Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)
 
-18. [Python Guide](https://github.com/mikeroyal/Python-Guide)
+18. [Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)
 
-19. [Linux Guide](https://github.com/mikeroyal/Linux-Guide)
+19. [Agile Guide](https://github.com/mikeroyal/Agile-Guide)
