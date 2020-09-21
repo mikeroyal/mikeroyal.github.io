@@ -49,6 +49,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 17. [Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)
 
+18. [.NET/.NET Core Guide](https://github.com/mikeroyal/.NET-Guide)
+
 13. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
 
 14. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
