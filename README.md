@@ -45,6 +45,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 15. [Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)
 
+16. [Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)
+
 13. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
 
 14. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
