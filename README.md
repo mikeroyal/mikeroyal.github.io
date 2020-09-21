@@ -41,6 +41,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 13. [Swift Guide](https://github.com/mikeroyal/Swift-Guide)
 
+14. [Go Guide](https://github.com/mikeroyal/Go-Guide)
+
 13. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
 
 14. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
