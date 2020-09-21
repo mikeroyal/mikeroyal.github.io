@@ -15,54 +15,28 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 ### Guides
 
-1. [DevOps Guide](https://salsa.debian.org/mikeroyal-guest/devops)
+1. [DevOps Guide](https://salsa.debian.org/mikeroyal-guest/devops) |      14. [Go Guide](https://github.com/mikeroyal/Go-Guide)
 
-2. [IoT Guide](https://github.com/mikeroyal/IoT-Guide)
+2. [IoT Guide](https://github.com/mikeroyal/IoT-Guide)         |          15. [Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)
 
-3. [WSL Guide](https://github.com/mikeroyal/WSL-Guide)
+3. [WSL Guide](https://github.com/mikeroyal/WSL-Guide)         |          16. [Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)            
 
-4. [Linux Guide](https://github.com/mikeroyal/Linux-Guide)
+4. [Linux Guide](https://github.com/mikeroyal/Linux-Guide)      |         17. [Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)
 
-5. [Networking Guide](https://github.com/mikeroyal/Networking-Guide)
+5. [Networking Guide](https://github.com/mikeroyal/Networking-Guide)  |   18. [.NET/.NET Core Guide](https://github.com/mikeroyal/.NET-Guide)
 
-6. [Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)
+6. [Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide) | 19. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
 
-7. [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning)
+7. [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning) | 20. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
 
-8. [Rust_lang Guide](https://github.com/mikeroyal/Rust_lang-Guide)
+8. [Rust_lang Guide](https://github.com/mikeroyal/Rust_lang-Guide)   |    21. [Open Source Graphics Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
 
-9. [SQL Guide](https://github.com/mikeroyal/SQL-Guide)
+9. [SQL Guide](https://github.com/mikeroyal/SQL-Guide)           |        22. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)
 
-10. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide)
+10. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide)  |   23. [Working Remote Guide](https://github.com/mikeroyal/Working-Remote-Guide)
 
-11. [Python Guide](https://github.com/mikeroyal/Python-Guide)
+11. [Python Guide](https://github.com/mikeroyal/Python-Guide)       |     24. [Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)
 
-12. [Kotlin Guide](https://github.com/mikeroyal/Kotlin-Guide)
+12. [Kotlin Guide](https://github.com/mikeroyal/Kotlin-Guide)     |       25. [Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)
 
-13. [Swift Guide](https://github.com/mikeroyal/Swift-Guide)
-
-14. [Go Guide](https://github.com/mikeroyal/Go-Guide)
-
-15. [Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)
-
-16. [Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)
-
-17. [Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)
-
-18. [.NET/.NET Core Guide](https://github.com/mikeroyal/.NET-Guide)
-
-19. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
-
-20. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
-
-21. [Open Source Graphics Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
-
-22. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)
-
-23. [Working Remote Guide](https://github.com/mikeroyal/Working-Remote-Guide)
-
-24. [Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)
-
-25. [Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)
-
-26. [Agile Guide](https://github.com/mikeroyal/Agile-Guide)
+13. [Swift Guide](https://github.com/mikeroyal/Swift-Guide)       |       26. [Agile Guide](https://github.com/mikeroyal/Agile-Guide)
