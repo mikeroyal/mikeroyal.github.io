@@ -43,6 +43,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 14. [Go Guide](https://github.com/mikeroyal/Go-Guide)
 
+15. [Java Guide](https://github.com/mikeroyal/Java-Guide)
+
 15. [Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)
 
 16. [PHP Guide](https://github.com/mikeroyal/PHP-Guide)
