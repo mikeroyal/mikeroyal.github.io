@@ -45,6 +45,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 15. [Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)
 
+16. [PHP Guide](https://github.com/mikeroyal/PHP-Guide)
+
 16. [Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)
 
 17. [Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)
