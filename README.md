@@ -51,6 +51,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 18. [MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide)
 
+19. [CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)
+
 18. [Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)
 
 19. [Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)
