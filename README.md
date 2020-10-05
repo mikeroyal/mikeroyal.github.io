@@ -33,48 +33,64 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 9. [SQL Guide](https://github.com/mikeroyal/SQL-Guide)
 
-10. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide)
+10. [HMTL/CSS Guide](https://github.com/mikeroyal/HMTL-CSS-Guide)
 
-11. [Python Guide](https://github.com/mikeroyal/Python-Guide)
+11. [Bash/Shell/PowerShell](https://github.com/mikeroyal/Bash-Shell-Powershell-Guide)
 
-12. [Kotlin Guide](https://github.com/mikeroyal/Kotlin-Guide)
+12. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide)
 
-13. [Swift Guide](https://github.com/mikeroyal/Swift-Guide)
+13. [Python Guide](https://github.com/mikeroyal/Python-Guide)
 
-14. [Go Guide](https://github.com/mikeroyal/Go-Guide)
+14. [Kotlin Guide](https://github.com/mikeroyal/Kotlin-Guide)
 
-15. [Java Guide](https://github.com/mikeroyal/Java-Guide)
+15. [Swift Guide](https://github.com/mikeroyal/Swift-Guide)
 
-16. [Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)
+16. [Go Guide](https://github.com/mikeroyal/Go-Guide)
 
-17. [PHP Guide](https://github.com/mikeroyal/PHP-Guide)
+17. [Java Guide](https://github.com/mikeroyal/Java-Guide)
 
-18. [MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide)
+18. [C++](https://github.com/mikeroyal/CPP-Guide)
 
-19. [CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)
+19. [Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)
 
-20. [Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)
+20. [PHP Guide](https://github.com/mikeroyal/PHP-Guide)
 
-21. [Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)
+21. [R Guide](https://github.com/mikeroyal/R-Guide)
+  
+22. [Julia_lang Guide](https://github.com/mikeroyal/Julia_lang-Guide)
 
-22. [C# Guide](https://github.com/mikeroyal/C-Sharp-Guide)
+23. [MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide)
 
-23. [F# Guide](https://github.com/mikeroyal/F-Sharp-Guide)
+24. [CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)
 
-24. [.NET/.NET Core Guide](https://github.com/mikeroyal/.NET-Guide)
+25. [Dart Guide](https://github.com/mikeroyal/Dart-Guide)
 
-25. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
+26. [Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)
 
-26. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
+27. [Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)
 
-27. [Open Source Graphics Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
+28. [Bootstrap Guide](https://github.com/mikeroyal/Bootstrap-Guide)
 
-28. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)
+29. [C# Guide](https://github.com/mikeroyal/C-Sharp-Guide)
 
-29. [Working Remote Guide](https://github.com/mikeroyal/Working-Remote-Guide)
+30. [F# Guide](https://github.com/mikeroyal/F-Sharp-Guide)
 
-30. [Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)
+31. [.NET/.NET Core Guide](https://github.com/mikeroyal/.NET-Guide)
 
-31. [Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)
+32. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)
 
-32. [Agile Guide](https://github.com/mikeroyal/Agile-Guide)
+33. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)
+
+34. [Open Source Graphics Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)
+
+35. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)
+
+36. [Blockchain](https://github.com/mikeroyal/Blockchain-Guide)
+
+37. [Working Remote Guide](https://github.com/mikeroyal/Working-Remote-Guide)
+
+38. [Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)
+
+39. [Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)
+
+40. [Agile Guide](https://github.com/mikeroyal/Agile-Guide)
