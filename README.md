@@ -13,7 +13,17 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 ![Project Profiles & Contributions](https://user-images.githubusercontent.com/45159366/86542054-ed2a5d00-bec6-11ea-875e-9909383fe64c.png)
 
-### Guides
+<div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
+</div>
+
+<h2>Guides</h2>
+
+<div class="row">
+  <div class="column" >
+    <h2>Section 1</h2>
+    <p>
 
 1. [DevOps Guide](https://salsa.debian.org/mikeroyal-guest/devops)
 
@@ -29,7 +39,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 7. [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning)
 
-8. [Rust_lang Guide](https://github.com/mikeroyal/Rust_lang-Guide)
+8. [Python Guide](https://github.com/mikeroyal/Python-Guide)
 
 9. [SQL Guide](https://github.com/mikeroyal/SQL-Guide)
 
@@ -39,7 +49,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 12. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide)
 
-13. [Python Guide](https://github.com/mikeroyal/Python-Guide)
+13. [Rust Guide](https://github.com/mikeroyal/Rust_lang-Guide)
 
 14. [Kotlin Guide](https://github.com/mikeroyal/Kotlin-Guide)
 
@@ -49,15 +59,20 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 17. [Java Guide](https://github.com/mikeroyal/Java-Guide)
 
-18. [C++](https://github.com/mikeroyal/CPP-Guide)
+18. [C++ Guide](https://github.com/mikeroyal/CPP-Guide)
 
 19. [Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)
 
 20. [PHP Guide](https://github.com/mikeroyal/PHP-Guide)
-
+</p>
+  </div>
+  <div class="column" >
+    <h2>Section 2</h2>
+    <p>
+     
 21. [R Guide](https://github.com/mikeroyal/R-Guide)
   
-22. [Julia_lang Guide](https://github.com/mikeroyal/Julia_lang-Guide)
+22. [Julia Guide](https://github.com/mikeroyal/Julia_lang-Guide)
 
 23. [MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide)
 
@@ -94,3 +109,6 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 39. [Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)
 
 40. [Agile Guide](https://github.com/mikeroyal/Agile-Guide)
+</p>
+  </div>
+</div>
