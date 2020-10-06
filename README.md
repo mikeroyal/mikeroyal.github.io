@@ -15,15 +15,25 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 ### Guides
 
-| Section 1 | Section 2 | Section 3 | Section 4 | 
-| --------------- | --------------- | --------------- | --------------- |
-| 1. [DevOps Guide](https://salsa.debian.org/mikeroyal-guest/devops) |11. [Bash/Shell/PowerShell Guide](https://github.com/mikeroyal/Bash-Shell-Powershell-Guide)  | 21. [R Guide](https://github.com/mikeroyal/R-Guide) |31. [.NET/.NET Core Guide](https://github.com/mikeroyal/.NET-Guide) |
-| 2. [IoT Guide](https://github.com/mikeroyal/IoT-Guide) | 12. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide) | 22. [Julia Guide](https://github.com/mikeroyal/Julia_lang-Guide) |32. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics) |
-| 3. [WSL Guide](https://github.com/mikeroyal/WSL-Guide) | 13. [Rust Guide](https://github.com/mikeroyal/Rust_lang-Guide) | 23. [MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide) |33. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide) |
-| 4. [Linux Guide](https://github.com/mikeroyal/Linux-Guide) | 14. [Kotlin Guide](https://github.com/mikeroyal/Kotlin-Guide) | 24. [CUDA Guide](https://github.com/mikeroyal/CUDA-Guide) |34. [Open Source Graphics Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide) |
-| 5. [Networking Guide](https://github.com/mikeroyal/Networking-Guide) | 15. [Swift Guide](https://github.com/mikeroyal/Swift-Guide) | 25. [Dart Guide](https://github.com/mikeroyal/Dart-Guide) |35. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide) |
-| 6. [Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide) | 16. [Go Guide](https://github.com/mikeroyal/Go-Guide) | 26. [Flutter Guide](https://github.com/mikeroyal/Flutter-Guide) |36. [Blockchain Guide](https://github.com/mikeroyal/Blockchain-Guide) |
-| 7. [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning) | 17. [Java Guide](https://github.com/mikeroyal/Java-Guide) | 27. [Node.js Guide](https://github.com/mikeroyal/Node.js-Guide) |37. [Working Remote Guide](https://github.com/mikeroyal/Working-Remote-Guide) |
-| 8. [Python Guide](https://github.com/mikeroyal/Python-Guide)| 18. [C++ Guide](https://github.com/mikeroyal/CPP-Guide) | 28. [Bootstrap Guide](https://github.com/mikeroyal/Bootstrap-Guide) |38. [Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide) |
-| 9. [SQL Guide](https://github.com/mikeroyal/SQL-Guide) |19. [Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)| 29. [C# Guide](https://github.com/mikeroyal/C-Sharp-Guide) | 39. [Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide) |
-| 10. [HMTL/CSS Guide](https://github.com/mikeroyal/HMTL-CSS-Guide)| 20. [PHP Guide](https://github.com/mikeroyal/PHP-Guide) | 30. [F# Guide](https://github.com/mikeroyal/F-Sharp-Guide) |40. [Agile Guide](https://github.com/mikeroyal/Agile-Guide) |
+| Section 1 | Section 2 |
+| --------------- | --------------- | 
+| 1. [DevOps Guide](https://salsa.debian.org/mikeroyal-guest/devops)| 21. [R Guide](https://github.com/mikeroyal/R-Guide)|
+| 2. [IoT Guide](https://github.com/mikeroyal/IoT-Guide)| 22. [Julia Guide](https://github.com/mikeroyal/Julia_lang-Guide)|
+| 3. [WSL Guide](https://github.com/mikeroyal/WSL-Guide)| 23. [MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide)|
+| 4. [Linux Guide](https://github.com/mikeroyal/Linux-Guide)| 24. [CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)|
+| 5. [Networking Guide](https://github.com/mikeroyal/Networking-Guide)| 25. [Dart Guide](https://github.com/mikeroyal/Dart-Guide)|
+| 6. [Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)| 26. [Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)|
+| 7. [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning)| 27. [Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)|
+| 8. [Python Guide](https://github.com/mikeroyal/Python-Guide)| 28. [Bootstrap Guide](https://github.com/mikeroyal/Bootstrap-Guide)|
+| 9. [SQL Guide](https://github.com/mikeroyal/SQL-Guide)| 29. [C# Guide](https://github.com/mikeroyal/C-Sharp-Guide)|
+| 10. [HMTL/CSS Guide](https://github.com/mikeroyal/HMTL-CSS-Guide)| 30. [F# Guide](https://github.com/mikeroyal/F-Sharp-Guide)|
+| 11. [Bash/Shell/PowerShell Guide](https://github.com/mikeroyal/Bash-Shell-Powershell-Guide)| 31. [.NET/.NET Core Guide](https://github.com/mikeroyal/.NET-Guide)|
+| 12. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide)| 32. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)|
+| 13. [Rust Guide](https://github.com/mikeroyal/Rust_lang-Guide)| 33. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)|
+| 14. [Kotlin Guide](https://github.com/mikeroyal/Kotlin-Guide)| 34. [Open Source Graphics Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)|
+| 15. [Swift Guide](https://github.com/mikeroyal/Swift-Guide)| 35. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)|
+| 16. [Go Guide](https://github.com/mikeroyal/Go-Guide)| 36. [Blockchain Guide](https://github.com/mikeroyal/Blockchain-Guide)|
+| 17. [Java Guide](https://github.com/mikeroyal/Java-Guide)| 37. [Working Remote Guide](https://github.com/mikeroyal/Working-Remote-Guide)|
+| 18. [C++ Guide](https://github.com/mikeroyal/CPP-Guide)| 38. [Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)|
+| 19. [Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)| 39. [Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)|
+| 20. [PHP Guide](https://github.com/mikeroyal/PHP-Guide)| 40. [Agile Guide](https://github.com/mikeroyal/Agile-Guide)|
