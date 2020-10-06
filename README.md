@@ -85,7 +85,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 35. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)
 
-36. [Blockchain](https://github.com/mikeroyal/Blockchain-Guide)
+36. [Blockchain Guide](https://github.com/mikeroyal/Blockchain-Guide)
 
 37. [Working Remote Guide](https://github.com/mikeroyal/Working-Remote-Guide)
 
