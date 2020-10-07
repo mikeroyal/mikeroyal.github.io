@@ -20,14 +20,14 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | 1. [DevOps Guide](https://salsa.debian.org/mikeroyal-guest/devops)| 22. [PHP Guide](https://github.com/mikeroyal/PHP-Guide)|
 | 2. [IoT Guide](https://github.com/mikeroyal/IoT-Guide)| 23. [R Guide](https://github.com/mikeroyal/R-Guide)|
 | 3. [WSL Guide](https://github.com/mikeroyal/WSL-Guide)| 24. [Julia Guide](https://github.com/mikeroyal/Julia_lang-Guide)|
-| 4. [Linux Guide](https://github.com/mikeroyal/Linux-Guide)| 25.[MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide)|
-| 5. [Networking Guide](https://github.com/mikeroyal/Networking-Guide)| 26.[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)|
-| 6. [Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)| 27.[Dart Guide](https://github.com/mikeroyal/Dart-Guide)|
-| 7. [Kuberntes Guide](https://github.com/mikeroyal/Kubernetes-Guide) | 28.[Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)| 
-| 8. [ARM Guide](https://github.com/mikeroyal/ARM-Guide) | 29.[Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)|
+| 4. [Linux Guide](https://github.com/mikeroyal/Linux-Guide)| 25. [MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide)|
+| 5. [Networking Guide](https://github.com/mikeroyal/Networking-Guide)| 26. [CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)|
+| 6. [Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)| 27. [Dart Guide](https://github.com/mikeroyal/Dart-Guide)|
+| 7. [Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide) | 28. [Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)| 
+| 8. [ARM Guide](https://github.com/mikeroyal/ARM-Guide) | 29. [Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)|
 | 9. [Machine Learning Guide](https://gitlab.com/maos20008/intro-to-machine-learning)| 30. [Bootstrap Guide](https://github.com/mikeroyal/Bootstrap-Guide)|
 | 10. [Python Guide](https://github.com/mikeroyal/Python-Guide)| 31.  [C# Guide](https://github.com/mikeroyal/C-Sharp-Guide)|
-| 11. [SQL Guide](https://github.com/mikeroyal/SQL-Guide)| 32.[F# Guide](https://github.com/mikeroyal/F-Sharp-Guide)|
+| 11. [SQL Guide](https://github.com/mikeroyal/SQL-Guide)| 32. [F# Guide](https://github.com/mikeroyal/F-Sharp-Guide)|
 | 12. [HMTL/CSS Guide](https://github.com/mikeroyal/HMTL-CSS-Guide)| 33. [.NET/.NET Core Guide](https://github.com/mikeroyal/.NET-Guide)|
 | 13. [Bash/Shell/PowerShell Guide](https://github.com/mikeroyal/Bash-Shell-Powershell-Guide)| 34. [Open Source Robotics Guide](https://invent.kde.org/mikeroyal/robotics)|
 | 14. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide)| 35. [Open Source Security Guide](https://salsa.debian.org/mikeroyal-guest/open-source-security-guide)|
