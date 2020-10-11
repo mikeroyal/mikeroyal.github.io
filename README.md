@@ -9,6 +9,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 [![Twitter](https://user-images.githubusercontent.com/45159366/85327986-bdba3000-b484-11ea-87f0-20be14e54852.png)](https://twitter.com/Miker256)
 [![YouTube](https://user-images.githubusercontent.com/45159366/95527913-81570500-098b-11eb-9d12-7601543de4aa.png)]()
 [![Twitch](https://user-images.githubusercontent.com/45159366/95504868-3ecd0280-0962-11eb-8ec2-a6c84182fb3e.png)](https://www.twitch.tv/r0yal_games)
+[![Discord](https://user-images.githubusercontent.com/45159366/95692912-13564c00-0bde-11eb-843c-a55c4105a4d3.png)]()
 [![Linkedin](https://user-images.githubusercontent.com/45159366/85327989-beeb5d00-b484-11ea-9996-d6042a365e34.png)](https://www.linkedin.com/in/michael-royal-b923b4134/)
 [![Resume](https://user-images.githubusercontent.com/45159366/85609897-5e3a5c80-b60b-11ea-94d4-751c7385e80a.png)](https://github.com/mikeroyal/mikeroyal.github.io/files/5170773/Michael-Royal-Resume.pdf)
 
