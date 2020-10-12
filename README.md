@@ -46,7 +46,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | 21. [Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)| 43.  [Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)|                                                    
 | 22. [Scala Guide](https://github.com/mikeroyal/Scala-Guide)  |44. [Agile Guide](https://github.com/mikeroyal/Agile-Guide)| 
 
-## Certifications
+### Certifications
 
 
 | Currently working on|  |
