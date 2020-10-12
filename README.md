@@ -45,3 +45,12 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | 20. [C++ Guide](https://github.com/mikeroyal/CPP-Guide)| 42. [Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)|
 | 21. [Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)| 43.  [Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)|                                                    
 | 22. [Scala Guide](https://github.com/mikeroyal/Scala-Guide)  |44. [Agile Guide](https://github.com/mikeroyal/Agile-Guide)| 
+
+## Certifications
+
+
+| Currently working on|  |
+| ------------- | --------------- | 
+|![Azure](https://user-images.githubusercontent.com/45159366/95778268-9af29800-0c7c-11eb-9c47-8398b99b15c0.png)| [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/learn/certifications/azure-developer)|
+|![AWS](https://user-images.githubusercontent.com/45159366/95778274-9d54f200-0c7c-11eb-800c-a512ff446bf9.png) |[AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)|
+|![GCP](https://user-images.githubusercontent.com/45159366/95778276-9e861f00-0c7c-11eb-987a-e7e7e4425614.png)| [Google Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)|
