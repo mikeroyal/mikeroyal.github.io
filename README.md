@@ -38,7 +38,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | 13. [Bash/Shell/PowerShell Guide](https://github.com/mikeroyal/Bash-Shell-Powershell-Guide)| 35. [Elixir Guide](https://github.com/mikeroyal/Elixir-Guide)| 
 | 14. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide)| 36. [Robotics Guide](https://github.com/mikeroyal/Robotics-guide)|
 | 15. [Rust Guide](https://github.com/mikeroyal/Rust_lang-Guide)| 37. [Open Source Security Guide](https://github.com/mikeroyal/Open-Source-Security-Guide)|
-| 16. [Kotlin Guide](https://github.com/mikeroyal/Kotlin-Guide)| 38. [Open Source Graphics Guide](https://gitlab.com/maos20008/open-source-3d-modeling-guide)|
+| 16. [Kotlin Guide](https://github.com/mikeroyal/Kotlin-Guide)| 38. [3D Graphics & Design Guide](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)|
 | 17. [Swift Guide](https://github.com/mikeroyal/Swift-Guide)| 39. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)|
 | 18. [Go Guide](https://github.com/mikeroyal/Go-Guide)| 40. [Blockchain Guide](https://github.com/mikeroyal/Blockchain-Guide)| 
 | 19. [Java Guide](https://github.com/mikeroyal/Java-Guide)| 41. [Working Remote Guide](https://github.com/mikeroyal/Working-Remote-Guide)|
