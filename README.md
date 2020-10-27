@@ -42,9 +42,9 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | 17. [Swift Guide](https://github.com/mikeroyal/Swift-Guide)| 39. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)|
 | 18. [Go Guide](https://github.com/mikeroyal/Go-Guide)| 40. [Blockchain Guide](https://github.com/mikeroyal/Blockchain-Guide)| 
 | 19. [Java Guide](https://github.com/mikeroyal/Java-Guide)| 41. [Working Remote Guide](https://github.com/mikeroyal/Working-Remote-Guide)|
-| 20. [C++ Guide](https://github.com/mikeroyal/CPP-Guide)| 42. [Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)|
+| 20. [C++ Guide](https://github.com/mikeroyal/CPP-Guide)| 42. [Audio & Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)|
 | 21. [Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)| 43.  [Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)|                                                    
-| 22. [Scala Guide](https://github.com/mikeroyal/Scala-Guide)  |44. [Agile Guide](https://github.com/mikeroyal/Agile-Guide)| 
+| 22. [Scala Guide](https://github.com/mikeroyal/Scala-Guide)  |44. [Agile Development Guide](https://github.com/mikeroyal/Agile-Guide)| 
 
 ### Certifications
 
