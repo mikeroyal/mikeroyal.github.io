@@ -10,6 +10,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 [![YouTube](https://user-images.githubusercontent.com/45159366/95527913-81570500-098b-11eb-9d12-7601543de4aa.png)]()
 [![Twitch](https://user-images.githubusercontent.com/45159366/95504868-3ecd0280-0962-11eb-8ec2-a6c84182fb3e.png)](https://www.twitch.tv/r0yal_games)
 [![Discord](https://user-images.githubusercontent.com/45159366/95692912-13564c00-0bde-11eb-843c-a55c4105a4d3.png)]()
+[![stackoverflow](https://user-images.githubusercontent.com/45159366/99306249-c7fd1200-2809-11eb-9a9b-c874387bfcf6.png)]()
 [![mastodon](https://user-images.githubusercontent.com/45159366/99155275-496a6e00-266b-11eb-96bd-72eeb9577f24.png)]()
 [![mattermost](https://user-images.githubusercontent.com/45159366/99155272-45d6e700-266b-11eb-8127-8714c8055728.png)]()
 [![reddit](https://user-images.githubusercontent.com/45159366/99155278-4bccc800-266b-11eb-9316-ca6924a51b2f.png)]()
