@@ -41,11 +41,11 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | 11. [SQL Guide](https://github.com/mikeroyal/SQL-Guide)| 37. [F# Guide](https://github.com/mikeroyal/F-Sharp-Guide)|
 | 12. [HMTL/CSS Guide](https://github.com/mikeroyal/HMTL-CSS-Guide)| 38. [.NET/.NET Core Guide](https://github.com/mikeroyal/.NET-Guide)|
 | 13. [Bash/Shell/PowerShell Guide](https://github.com/mikeroyal/Bash-Shell-Powershell-Guide)| 39. [Elixir Guide](https://github.com/mikeroyal/Elixir-Guide)| 
-| 14. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide)| 40.[Erlang Guide](https://github.com/mikeroyal/Erlang-Guide)
+| 14. [TypeScipt Guide](https://github.com/mikeroyal/TypeScript-Guide)| 40. [Erlang Guide](https://github.com/mikeroyal/Erlang-Guide)
 | 15. [Rust Guide](https://github.com/mikeroyal/Rust_lang-Guide)| 41. [Lua Guide](https://github.com/mikeroyal/Lua-Guide)
 | 16. [Kotlin Guide](https://github.com/mikeroyal/Kotlin-Guide)| 42. [Vala Guide](https://github.com/mikeroyal/Vala-Guide)
 | 17. [Swift Guide](https://github.com/mikeroyal/Swift-Guide)| 43. [Objective-C Guide](https://github.com/mikeroyal/Objective-C-Guide)
-| 18. [Go Guide](https://github.com/mikeroyal/Go-Guide)| 44.[Robotics Guide](https://github.com/mikeroyal/Robotics-guide)|
+| 18. [Go Guide](https://github.com/mikeroyal/Go-Guide)| 44. [Robotics Guide](https://github.com/mikeroyal/Robotics-guide)|
 | 19. [Java Guide](https://github.com/mikeroyal/Java-Guide)| 45. [Open Source Security Guide](https://github.com/mikeroyal/Open-Source-Security-Guide)| 
 | 20. [C++ Guide](https://github.com/mikeroyal/CPP-Guide)| 46. [3D Graphics & Design Guide](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)|
 | 21. [Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)| 47. [Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)|                                                 
