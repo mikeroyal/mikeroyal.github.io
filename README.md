@@ -52,7 +52,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 | Currently working on|  |
 | ------------- | --------------- | 
-|![Azure](https://user-images.githubusercontent.com/45159366/95778268-9af29800-0c7c-11eb-9c47-8398b99b15c0.png)| [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/learn/certifications/azure-developer)|
-|![AWS](https://user-images.githubusercontent.com/45159366/95778274-9d54f200-0c7c-11eb-800c-a512ff446bf9.png) |[AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)|
-|![GCP](https://user-images.githubusercontent.com/45159366/95778276-9e861f00-0c7c-11eb-987a-e7e7e4425614.png)| [Google Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)|
-|![Red Hat](https://user-images.githubusercontent.com/45159366/98739651-96de9680-235e-11eb-847d-21704f6192a6.png)| [Red Hat Certified Engineer](https://www.redhat.com/en/services/certification/rhce)|
+|![Azure](https://user-images.githubusercontent.com/45159366/100673067-af1b5300-3317-11eb-9f63-5839e9242f10.png)| [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/learn/certifications/azure-developer)|
+|![AWS](https://user-images.githubusercontent.com/45159366/100673070-b04c8000-3317-11eb-90bc-eded03b6e272.png) |[AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)|
+|![GCP](https://user-images.githubusercontent.com/45159366/100673076-b17dad00-3317-11eb-8fda-ec5adcd7df29.png)| [Google Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)|
+|![Red Hat](https://user-images.githubusercontent.com/45159366/100673079-b2aeda00-3317-11eb-8a14-ddec35c47254.png)| [Red Hat Certified Engineer](https://www.redhat.com/en/services/certification/rhce)|
