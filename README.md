@@ -43,7 +43,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | 13. [Bash/Shell/PowerShell](https://github.com/mikeroyal/Bash-Shell-Powershell-Guide)|31. [PHP](https://github.com/mikeroyal/PHP-Guide)|49. [Blockchain](https://github.com/mikeroyal/Blockchain-Guide)|
 | 14. [React](https://github.com/mikeroyal/ReactJS-Guide) | 32. [C#](https://github.com/mikeroyal/C-Sharp-Guide)|50. [Working Remote](https://github.com/mikeroyal/Working-Remote-Guide)|
 | 15. [Node.js](https://github.com/mikeroyal/Node.js-Guide)| 33. [F#](https://github.com/mikeroyal/F-Sharp-Guide)|51. [Audio & Video Editing](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)|
-| 16. [TypeScipt](https://github.com/mikeroyal/TypeScript-Guide)| 34. [.NET/.NET Core](https://github.com/mikeroyal/.NET-Guide)|52. [Podcasting](https://github.com/mikeroyal/Podcasting-Guide)|
+| 16. [TypeScript](https://github.com/mikeroyal/TypeScript-Guide)| 34. [.NET/.NET Core](https://github.com/mikeroyal/.NET-Guide)|52. [Podcasting](https://github.com/mikeroyal/Podcasting-Guide)|
 | 17. [Rust](https://github.com/mikeroyal/Rust_lang-Guide)| 35. [Dart](https://github.com/mikeroyal/Dart-Guide)|53. [Agile Development](https://github.com/mikeroyal/Agile-Guide)|
 | 18. [Kotlin](https://github.com/mikeroyal/Kotlin-Guide)| 36. [Flutter](https://github.com/mikeroyal/Flutter-Guide)|54. [Haskell](https://github.com/mikeroyal/Haskell-Guide)
 
