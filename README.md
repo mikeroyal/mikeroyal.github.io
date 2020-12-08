@@ -39,7 +39,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | 9. [Assembly(x86)](https://github.com/mikeroyal/Assembly-Guide)| 28. [WebAssembly](https://github.com/mikeroyal/WebAssembly-Guide)|47. [Haskell](https://github.com/mikeroyal/Haskell-Guide)|
 | 10. [Machine Learning](https://github.com/mikeroyal/Machine-Learning-Guide)|29. [CUDA](https://github.com/mikeroyal/CUDA-Guide)| 48. [PHP ](https://github.com/mikeroyal/PHP-Guide)
 | 11. [Python Guide](https://github.com/mikeroyal/Python-Guide)|30. [Julia](https://github.com/mikeroyal/Julia_lang-Guide)|49. [Robotics](https://github.com/mikeroyal/Robotics-guide)|
-| 12. [SQL](https://github.com/mikeroyal/SQL-Guide)| 31. [R Guide](https://github.com/mikeroyal/R-Guide)|50. [Open Source Security](https://github.com/mikeroyal/Open-Source-Security-Guide)|
+| 12. [SQL](https://github.com/mikeroyal/SQL-Guide)| 31. [R](https://github.com/mikeroyal/R-Guide)|50. [Open Source Security](https://github.com/mikeroyal/Open-Source-Security-Guide)|
 | 13. [HMTL/CSS](https://github.com/mikeroyal/HMTL-CSS-Guide)| 32. [MATLAB](https://github.com/mikeroyal/MATLAB-Guide)|51. [3D Graphics & Design](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)|
 | 14. [React](https://github.com/mikeroyal/ReactJS-Guide)  |33. [Bash/Shell/PowerShell](https://github.com/mikeroyal/Bash-Shell-Powershell-Guide) |52. [Game Development](https://github.com/mikeroyal/Game-Development-Guide)| 
 | 15. [Angular](https://github.com/mikeroyal/Angular-Guide) | 34. [C#](https://github.com/mikeroyal/C-Sharp-Guide)|53. [Blockchain](https://github.com/mikeroyal/Blockchain-Guide)|
