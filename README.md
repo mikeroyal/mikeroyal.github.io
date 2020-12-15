@@ -28,25 +28,27 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 | Section 1 | Section 2 | Section 3 |
 | --------------- | --------------- | --------------- |
-| 1. [DevOps](https://github.com/mikeroyal/DevOps-Guide)|  20. [Swift](https://github.com/mikeroyal/Swift-Guide)| 39. [Objective-C](https://github.com/mikeroyal/Objective-C-Guide)|
-| 2. [IoT](https://github.com/mikeroyal/IoT-Guide)| 21. [Golang](https://github.com/mikeroyal/Go-Guide)| 40. [Qt](https://github.com/mikeroyal/Qt-Guide)| 
-| 3. [WSL](https://github.com/mikeroyal/WSL-Guide)| 22. [C++](https://github.com/mikeroyal/CPP-Guide)| 41. [LabVIEW](https://github.com/mikeroyal/LabVIEW-Guide)| 
-| 4. [Linux](https://github.com/mikeroyal/Linux-Guide)| 23. [Ruby](https://github.com/mikeroyal/Ruby-Guide)| 42. [Bootstrap](https://github.com/mikeroyal/Bootstrap-Guide)|
-| 5. [Networking](https://github.com/mikeroyal/Networking-Guide)|  24. [Java](https://github.com/mikeroyal/Java-Guide)| 43. [Elixir](https://github.com/mikeroyal/Elixir-Guide)| 
-| 6. [Cloud-Native](https://github.com/mikeroyal/Cloud-Native-Guide)| 25. [Scala](https://github.com/mikeroyal/Scala-Guide) | 44. [Erlang](https://github.com/mikeroyal/Erlang-Guide)|
-| 7. [Kubernetes](https://github.com/mikeroyal/Kubernetes-Guide) | 26. [Groovy](https://github.com/mikeroyal/Groovy-Guide)  | 45. [Lua](https://github.com/mikeroyal/Lua-Guide)|
-| 8. [ARM](https://github.com/mikeroyal/ARM-Guide) | 27. [Clojure](https://github.com/mikeroyal/Clojure-Guide)| 46. [Vala](https://github.com/mikeroyal/Vala-Guide)|
-| 9. [Assembly(x86)](https://github.com/mikeroyal/Assembly-Guide)| 28. [WebAssembly](https://github.com/mikeroyal/WebAssembly-Guide)|47. [Haskell](https://github.com/mikeroyal/Haskell-Guide)|
-| 10. [Machine Learning](https://github.com/mikeroyal/Machine-Learning-Guide)|29. [CUDA](https://github.com/mikeroyal/CUDA-Guide)| 48. [PHP ](https://github.com/mikeroyal/PHP-Guide)
-| 11. [Python Guide](https://github.com/mikeroyal/Python-Guide)|30. [Julia](https://github.com/mikeroyal/Julia_lang-Guide)|49. [Robotics](https://github.com/mikeroyal/Robotics-guide)|
-| 12. [SQL](https://github.com/mikeroyal/SQL-Guide)| 31. [R](https://github.com/mikeroyal/R-Guide)|50. [Open Source Security](https://github.com/mikeroyal/Open-Source-Security-Guide)|
-| 13. [HMTL/CSS](https://github.com/mikeroyal/HMTL-CSS-Guide)| 32. [MATLAB](https://github.com/mikeroyal/MATLAB-Guide)|51. [3D Graphics & Design](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)|
-| 14. [React](https://github.com/mikeroyal/ReactJS-Guide)  |33. [Bash/Shell/PowerShell](https://github.com/mikeroyal/Bash-Shell-Powershell-Guide) |52. [Game Development](https://github.com/mikeroyal/Game-Development-Guide)| 
-| 15. [Angular](https://github.com/mikeroyal/Angular-Guide) | 34. [C#](https://github.com/mikeroyal/C-Sharp-Guide)|53. [Blockchain](https://github.com/mikeroyal/Blockchain-Guide)|
-| 16. [Node.js](https://github.com/mikeroyal/Node.js-Guide)| 35. [F#](https://github.com/mikeroyal/F-Sharp-Guide)|54. [Working Remote](https://github.com/mikeroyal/Working-Remote-Guide)|
-| 17. [TypeScript](https://github.com/mikeroyal/TypeScript-Guide)| 36. [.NET/.NET Core](https://github.com/mikeroyal/.NET-Guide)|55. [Audio & Video Editing](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)|
-| 18. [Rust](https://github.com/mikeroyal/Rust_lang-Guide)| 37. [Dart](https://github.com/mikeroyal/Dart-Guide)|56. [Podcasting](https://github.com/mikeroyal/Podcasting-Guide)|
-| 19. [Kotlin](https://github.com/mikeroyal/Kotlin-Guide)| 38. [Flutter](https://github.com/mikeroyal/Flutter-Guide)|57. [Agile Development](https://github.com/mikeroyal/Agile-Guide)|
+| 1. [DevOps](https://github.com/mikeroyal/DevOps-Guide)|  21. [Swift](https://github.com/mikeroyal/Swift-Guide)| 41. [Objective-C](https://github.com/mikeroyal/Objective-C-Guide)|
+| 2. [IoT](https://github.com/mikeroyal/IoT-Guide)| 22. [Golang](https://github.com/mikeroyal/Go-Guide)| 42. [Qt](https://github.com/mikeroyal/Qt-Guide)| 
+| 3. [Open Source Security](https://github.com/mikeroyal/Open-Source-Security-Guide)| 23. [C++](https://github.com/mikeroyal/CPP-Guide)| 43. [LabVIEW](https://github.com/mikeroyal/LabVIEW-Guide)| 
+| 4. [Linux](https://github.com/mikeroyal/Linux-Guide)| 24. [Ruby](https://github.com/mikeroyal/Ruby-Guide)| 44. [Bootstrap](https://github.com/mikeroyal/Bootstrap-Guide)|
+| 5. [Networking](https://github.com/mikeroyal/Networking-Guide)|  25. [Java](https://github.com/mikeroyal/Java-Guide)| 45. [Elixir](https://github.com/mikeroyal/Elixir-Guide)| 
+| 6. [Cloud-Native](https://github.com/mikeroyal/Cloud-Native-Guide)| 26. [Scala](https://github.com/mikeroyal/Scala-Guide) | 46. [Erlang](https://github.com/mikeroyal/Erlang-Guide)|
+| 7. [Kubernetes](https://github.com/mikeroyal/Kubernetes-Guide) | 27. [Groovy](https://github.com/mikeroyal/Groovy-Guide)  | 47. [Lua](https://github.com/mikeroyal/Lua-Guide)|
+| 8. [ARM](https://github.com/mikeroyal/ARM-Guide) | 28. [Clojure](https://github.com/mikeroyal/Clojure-Guide)| 48. [Vala](https://github.com/mikeroyal/Vala-Guide)|
+| 9. [Assembly(x86)](https://github.com/mikeroyal/Assembly-Guide)| 29. [WebAssembly](https://github.com/mikeroyal/WebAssembly-Guide)|49. [Haskell](https://github.com/mikeroyal/Haskell-Guide)|
+| 10. [Machine Learning](https://github.com/mikeroyal/Machine-Learning-Guide)|30. [CUDA](https://github.com/mikeroyal/CUDA-Guide)| 50. [PHP](https://github.com/mikeroyal/PHP-Guide)
+| 11. [Python Guide](https://github.com/mikeroyal/Python-Guide)|31. [Julia](https://github.com/mikeroyal/Julia_lang-Guide)|51. [Robotics](https://github.com/mikeroyal/Robotics-guide)|
+| 12. [SQL](https://github.com/mikeroyal/SQL-Guide)| 32. [R](https://github.com/mikeroyal/R-Guide)|52. [WSL](https://github.com/mikeroyal/WSL-Guide) |
+| 13. [HMTL/CSS](https://github.com/mikeroyal/HMTL-CSS-Guide)| 33. [MATLAB](https://github.com/mikeroyal/MATLAB-Guide)|53. [3D Graphics & Design](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)|
+| 14. [React](https://github.com/mikeroyal/ReactJS-Guide)  |34. [Bash/Shell/PowerShell](https://github.com/mikeroyal/Bash-Shell-Powershell-Guide) |54. [Game Development](https://github.com/mikeroyal/Game-Development-Guide)| 
+| 15. [Angular](https://github.com/mikeroyal/Angular-Guide) | 35. [C#](https://github.com/mikeroyal/C-Sharp-Guide)|55. [Blockchain](https://github.com/mikeroyal/Blockchain-Guide)|
+| 16. [VueJS](https://github.com/mikeroyal/VueJS-Guide) | 36. [F#](https://github.com/mikeroyal/F-Sharp-Guide)|56. [Working Remote](https://github.com/mikeroyal/Working-Remote-Guide)|
+| 17. [Node.js](https://github.com/mikeroyal/Node.js-Guide)| 37. [.NET/.NET Core](https://github.com/mikeroyal/.NET-Guide)|57. [Audio & Video Editing](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)|
+| 18. [TypeScript](https://github.com/mikeroyal/TypeScript-Guide)| 38. [Dart](https://github.com/mikeroyal/Dart-Guide)|58. [Podcasting](https://github.com/mikeroyal/Podcasting-Guide)|
+| 19. [Rust](https://github.com/mikeroyal/Rust_lang-Guide)| 39. [Flutter](https://github.com/mikeroyal/Flutter-Guide)|59. [Agile Development](https://github.com/mikeroyal/Agile-Guide)|
+|20. [Kotlin](https://github.com/mikeroyal/Kotlin-Guide)|40. [Firebase](https://github.com/mikeroyal/Firebase-Guide)|60. [RISC-V](https://github.com/mikeroyal/RISC-V-Guide)
+|61. [Verilog/SystemVerilog](https://github.com/mikeroyal/Verilog-SystemVerilog-Guide)| |
 
 ### Certifications
 
