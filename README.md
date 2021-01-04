@@ -26,6 +26,9 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 ### Guides
 
+[Developer Handook v1.0](https://github.com/mikeroyal/Developer-Handbook)
+
+
 | Section 1 | Section 2 | Section 3 |
 | --------------- | --------------- | --------------- |
 | 1. [DevOps](https://github.com/mikeroyal/DevOps-Guide)|  21. [Swift](https://github.com/mikeroyal/Swift-Guide)| 41. [Objective-C](https://github.com/mikeroyal/Objective-C-Guide)|
@@ -48,7 +51,9 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | 18. [TypeScript](https://github.com/mikeroyal/TypeScript-Guide)| 38. [Dart](https://github.com/mikeroyal/Dart-Guide)|58. [Podcasting](https://github.com/mikeroyal/Podcasting-Guide)|
 | 19. [Rust](https://github.com/mikeroyal/Rust_lang-Guide)| 39. [Flutter](https://github.com/mikeroyal/Flutter-Guide)|59. [Agile Development](https://github.com/mikeroyal/Agile-Guide)|
 |20. [Kotlin](https://github.com/mikeroyal/Kotlin-Guide)|40. [Firebase](https://github.com/mikeroyal/Firebase-Guide)|60. [RISC-V](https://github.com/mikeroyal/RISC-V-Guide)
-|61. [Verilog/SystemVerilog](https://github.com/mikeroyal/Verilog-SystemVerilog-Guide)| |
+|61. [Serverless](https://github.com/mikeroyal/Serverless-Guide)|62. [XML](https://github.com/mikeroyal/XML-Guide)|63. [Verilog/SystemVerilog](https://github.com/mikeroyal/Verilog-SystemVerilog-Guide)|
+|64. [Quantum Computing](https://github.com/mikeroyal/Quantum-Computing-Guide)|65. [Data Structures & Algorithms](https://github.com/mikeroyal/Data-Structures-and-Algorithms)|66. [Differential Privacy](https://github.com/mikeroyal/Differential-Privacy-Guide)|
+|67. [Raspberry Pi](https://github.com/mikeroyal/Raspberry-Pi-Guide)||
 
 ### Certifications
 
