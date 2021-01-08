@@ -26,7 +26,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 ### Guides
 
-[Developer Handook v1.0](https://github.com/mikeroyal/Developer-Handbook)
+**[Developer Handook v1.0](https://github.com/mikeroyal/Developer-Handbook)**
 
 
 | Section 1 | Section 2 | Section 3 |
@@ -53,7 +53,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |20. [Kotlin](https://github.com/mikeroyal/Kotlin-Guide)|40. [Firebase](https://github.com/mikeroyal/Firebase-Guide)|60. [RISC-V](https://github.com/mikeroyal/RISC-V-Guide)
 |61. [Serverless](https://github.com/mikeroyal/Serverless-Guide)|62. [XML](https://github.com/mikeroyal/XML-Guide)|63. [Verilog/SystemVerilog](https://github.com/mikeroyal/Verilog-SystemVerilog-Guide)|
 |64. [Quantum Computing](https://github.com/mikeroyal/Quantum-Computing-Guide)|65. [Data Structures & Algorithms](https://github.com/mikeroyal/Data-Structures-and-Algorithms)|66. [Differential Privacy](https://github.com/mikeroyal/Differential-Privacy-Guide)|
-|67. [Raspberry Pi](https://github.com/mikeroyal/Raspberry-Pi-Guide)||
+|67. [Raspberry Pi](https://github.com/mikeroyal/Raspberry-Pi-Guide)|68. [Arduino](https://github.com/mikeroyal/Arduino-Guide)|69. [FPGA](https://github.com/mikeroyal/FPGA-Guide)
 
 ### Certifications
 
