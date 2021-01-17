@@ -20,7 +20,9 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 ### Links to Project Profiles & Contributions
 
-[Project Profiles & Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4875593/Links.to.Project.Contributions.pdf)
+**[Project Profiles & Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4875593/Links.to.Project.Contributions.pdf)**
+
+**[Developer Handbook v1.0.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/5826940/Developer.handbook.v1.0.pdf)**
 
 ![Project Profiles & Contributions](https://user-images.githubusercontent.com/45159366/86542054-ed2a5d00-bec6-11ea-875e-9909383fe64c.png)
 
@@ -53,7 +55,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |20. [Kotlin](https://github.com/mikeroyal/Kotlin-Guide)|40. [Firebase](https://github.com/mikeroyal/Firebase-Guide)|60. [RISC-V](https://github.com/mikeroyal/RISC-V-Guide)
 |61. [Serverless](https://github.com/mikeroyal/Serverless-Guide)|62. [XML](https://github.com/mikeroyal/XML-Guide)|63. [Verilog/SystemVerilog](https://github.com/mikeroyal/Verilog-SystemVerilog-Guide)|
 |64. [Quantum Computing](https://github.com/mikeroyal/Quantum-Computing-Guide)|65. [Data Structures & Algorithms](https://github.com/mikeroyal/Data-Structures-and-Algorithms)|66. [Differential Privacy](https://github.com/mikeroyal/Differential-Privacy-Guide)|
-|67. [Raspberry Pi](https://github.com/mikeroyal/Raspberry-Pi-Guide)|68. [Arduino](https://github.com/mikeroyal/Arduino-Guide)|69. [FPGA](https://github.com/mikeroyal/FPGA-Guide)
+|67. [Raspberry Pi](https://github.com/mikeroyal/Raspberry-Pi-Guide)|68. [Arduino](https://github.com/mikeroyal/Arduino-Guide)|69. [FPGA](https://github.com/mikeroyal/FPGA-Guide)|
+|70. [Wayland](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#70-wayland)|71. [Electron](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#71-electron)|72. [jQuery](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#72-jquery)|
 
 ### Certifications
 
