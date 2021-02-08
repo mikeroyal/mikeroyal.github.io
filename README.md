@@ -24,6 +24,12 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Developer Handbook v1.0.pdf](https://github.com/mikeroyal/Developer-Handbook/files/5869749/Developer.Handbook.v1.0.pdf)**
 
+**[Ubuntu Guide.pdf](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/files/5940699/Ubuntu.Guide.pdf)**
+
+**[Pop!_OS Guide.pdf](https://github.com/mikeroyal/Pop_OS-Guide/files/5940740/Pop._OS.Guide.pdf)**
+
+**[Fedora Guide.pdf](https://github.com/mikeroyal/Fedora-Guide/files/5940741/Fedora.Guide.pdf)**
+
 ![Project Profiles & Contributions](https://user-images.githubusercontent.com/45159366/86542054-ed2a5d00-bec6-11ea-875e-9909383fe64c.png)
 
 ### Guides
@@ -57,7 +63,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |64. [Quantum Computing](https://github.com/mikeroyal/Quantum-Computing-Guide)|65. [Data Structures & Algorithms](https://github.com/mikeroyal/Data-Structures-and-Algorithms)|66. [Differential Privacy](https://github.com/mikeroyal/Differential-Privacy-Guide)|
 |67. [Raspberry Pi](https://github.com/mikeroyal/Raspberry-Pi-Guide)|68. [Arduino](https://github.com/mikeroyal/Arduino-Guide)|69. [FPGA](https://github.com/mikeroyal/FPGA-Guide)|
 |70. [Wayland](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#70-wayland)|71. [Electron](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#71-electron)|72. [jQuery](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#72-jquery)|
-|73. [FinOps](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#73-finops)|74. [Telco 5G](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#74-telco-5g)|
+|73. [FinOps](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#73-finops)|74. [Telco 5G](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#74-telco-5g)|75. [Ubuntu](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)|
+|76.[Pop!_OS](https://github.com/mikeroyal/Pop_OS-Guide)|77.[Fedora](https://github.com/mikeroyal/Fedora-Guide)|
 
 ### Certifications
 
