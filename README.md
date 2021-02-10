@@ -22,20 +22,23 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Project Profiles & Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4875593/Links.to.Project.Contributions.pdf)**
 
-**[Developer Handbook v1.0.pdf](https://github.com/mikeroyal/Developer-Handbook/files/5869749/Developer.Handbook.v1.0.pdf)**
+**[Developer Handook v1.0](https://github.com/mikeroyal/Developer-Handbook)**
 
-**[Ubuntu Guide.pdf](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/files/5940699/Ubuntu.Guide.pdf)**
+[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)
 
-**[Pop!_OS Guide.pdf](https://github.com/mikeroyal/Pop_OS-Guide/files/5940740/Pop._OS.Guide.pdf)**
+[Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)
 
-**[Fedora Guide.pdf](https://github.com/mikeroyal/Fedora-Guide/files/5940741/Fedora.Guide.pdf)**
+[Debian Guide](https://github.com/mikeroyal/Debian-Guide)
+
+[Fedora Guide](https://github.com/mikeroyal/Fedora-Guide)
+
+[SUSE Enterprise Linux/openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)
+
+[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)
 
 ![Project Profiles & Contributions](https://user-images.githubusercontent.com/45159366/86542054-ed2a5d00-bec6-11ea-875e-9909383fe64c.png)
 
 ### Guides
-
-**[Developer Handook v1.0](https://github.com/mikeroyal/Developer-Handbook)**
-
 
 | Section 1 | Section 2 | Section 3 |
 | --------------- | --------------- | --------------- |
