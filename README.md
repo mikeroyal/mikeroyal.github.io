@@ -24,23 +24,25 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Developer Handook v1.0](https://github.com/mikeroyal/Developer-Handbook)**
 
-[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)
+**[Windows Subsystem for Linux (WSL) Guide](https://github.com/mikeroyal/WSL-Guide)**
 
-[Windows Subsystem for Linux (WSL) Guide](https://github.com/mikeroyal/WSL-Guide)
+**[ARM Guide](https://github.com/mikeroyal/ARM-Guide)**
 
-[ARM Guide](https://github.com/mikeroyal/ARM-Guide)
+**[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**
 
-[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)
+**[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)**
 
-[Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)
+**[Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)**
 
-[Debian Guide](https://github.com/mikeroyal/Debian-Guide)
+**[Debian Guide](https://github.com/mikeroyal/Debian-Guide)**
 
-[Fedora Guide](https://github.com/mikeroyal/Fedora-Guide)
+**[Fedora Guide](https://github.com/mikeroyal/Fedora-Guide)**
 
-[SUSE Enterprise Linux/openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)
+**[SUSE Enterprise Linux/openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**
 
-[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)
+**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**
+
+**See more Guides below**
 
 ![Project Profiles & Contributions](https://user-images.githubusercontent.com/45159366/86542054-ed2a5d00-bec6-11ea-875e-9909383fe64c.png)
 
