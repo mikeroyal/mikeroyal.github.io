@@ -24,6 +24,12 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Developer Handook v1.0](https://github.com/mikeroyal/Developer-Handbook)**
 
+[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)
+
+[Windows Subsystem for Linux (WSL) Guide](https://github.com/mikeroyal/WSL-Guide)
+
+[ARM Guide](https://github.com/mikeroyal/ARM-Guide)
+
 [Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)
 
 [Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)
