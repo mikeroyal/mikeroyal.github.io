@@ -26,7 +26,9 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Windows Subsystem for Linux (WSL) Guide](https://github.com/mikeroyal/WSL-Guide)**
 
-**[ARM Guide](https://github.com/mikeroyal/ARM-Guide)**
+**[ARM (Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**
+
+**[Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide)**
 
 **[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**
 
