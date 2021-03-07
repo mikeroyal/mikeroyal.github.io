@@ -6,13 +6,16 @@
 I am a highly motivated engineer who is able to bring key analytical problem-solving skills & solutions to any project I approach. I infuse my own creativity and style to keep team members focused and meet deadlines under pressure with a high success rate; and having exceptional communication and organization skills that are needed to successfully achieve any deadline set for a project. In my free time I'm contributing to many open source projects, playing my guitar, and occasionally playing some videogames.
 
 [![GitHub](https://user-images.githubusercontent.com/45159366/94374332-67cad900-00c0-11eb-953d-8727aae8031d.png)](https://github.com/mikeroyal)
+[![gitlab](https://user-images.githubusercontent.com/45159366/110253497-8cfd2680-7f3f-11eb-87d3-9ccc77382236.png)](https://gitlab.com/maos20008)
 [![Twitter](https://user-images.githubusercontent.com/45159366/85327986-bdba3000-b484-11ea-87f0-20be14e54852.png)](https://twitter.com/Miker256)
+[![Insta](https://user-images.githubusercontent.com/45159366/110253503-9090ad80-7f3f-11eb-941d-7d733df0036f.png)]
 [![YouTube](https://user-images.githubusercontent.com/45159366/95527913-81570500-098b-11eb-9d12-7601543de4aa.png)]()
 [![Twitch](https://user-images.githubusercontent.com/45159366/95504868-3ecd0280-0962-11eb-8ec2-a6c84182fb3e.png)](https://www.twitch.tv/r0yal_games)
 [![Discord](https://user-images.githubusercontent.com/45159366/95692912-13564c00-0bde-11eb-843c-a55c4105a4d3.png)]()
 [![stackoverflow](https://user-images.githubusercontent.com/45159366/99306249-c7fd1200-2809-11eb-9a9b-c874387bfcf6.png)]()
 [![mastodon](https://user-images.githubusercontent.com/45159366/99155275-496a6e00-266b-11eb-96bd-72eeb9577f24.png)]()
 [![mattermost](https://user-images.githubusercontent.com/45159366/99155272-45d6e700-266b-11eb-8127-8714c8055728.png)]()
+[![telegram](https://user-images.githubusercontent.com/45159366/110253498-8d95bd00-7f3f-11eb-88eb-96061dd77481.png)]
 [![reddit](https://user-images.githubusercontent.com/45159366/99155278-4bccc800-266b-11eb-9316-ca6924a51b2f.png)]()
 [![slack](https://user-images.githubusercontent.com/45159366/99155280-4cfdf500-266b-11eb-9f67-6479fe5c8e96.png)]()
 [![Linkedin](https://user-images.githubusercontent.com/45159366/85327989-beeb5d00-b484-11ea-9996-d6042a365e34.png)](https://www.linkedin.com/in/michael-royal-b923b4134/)
@@ -38,9 +41,9 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Debian Guide](https://github.com/mikeroyal/Debian-Guide)**
 
-**[Fedora Guide](https://github.com/mikeroyal/Fedora-Guide)**
+**[Fedora--CentOS Stream--RHEL Guide](https://github.com/mikeroyal/Fedora-Guide)**
 
-**[SUSE Enterprise Linux/openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**
+**[SUSE Enterprise Linux--openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**
 
 **[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**
 
