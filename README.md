@@ -33,6 +33,10 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide)**
 
+**[Windows 10 Guide](https://github.com/mikeroyal/Windows-10-Guide)**
+
+**[macOS--iOS--iPadOS Guide](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide)**
+
 **[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**
 
 **[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)**
@@ -41,7 +45,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Debian Guide](https://github.com/mikeroyal/Debian-Guide)**
 
-**[Fedora--CentOS Stream--RHEL Guide](https://github.com/mikeroyal/Fedora-Guide)**
+**[Fedora--CentOS Stream--Red Hat Enterprise Linux Guide](https://github.com/mikeroyal/Fedora-Guide)**
 
 **[SUSE Enterprise Linux--openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**
 
