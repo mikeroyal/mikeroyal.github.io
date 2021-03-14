@@ -54,6 +54,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**
 
+**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**
+
 **See more Guides below**
 
 ![Project Profiles & Contributions](https://user-images.githubusercontent.com/45159366/86542054-ed2a5d00-bec6-11ea-875e-9909383fe64c.png)
