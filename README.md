@@ -11,12 +11,14 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 [![Insta](https://user-images.githubusercontent.com/45159366/110253503-9090ad80-7f3f-11eb-941d-7d733df0036f.png)]()
 [![YouTube](https://user-images.githubusercontent.com/45159366/95527913-81570500-098b-11eb-9d12-7601543de4aa.png)]()
 [![Twitch](https://user-images.githubusercontent.com/45159366/95504868-3ecd0280-0962-11eb-8ec2-a6c84182fb3e.png)](https://www.twitch.tv/r0yal_games)
+
 [![Discord](https://user-images.githubusercontent.com/45159366/95692912-13564c00-0bde-11eb-843c-a55c4105a4d3.png)]()
 [![stackoverflow](https://user-images.githubusercontent.com/45159366/99306249-c7fd1200-2809-11eb-9a9b-c874387bfcf6.png)]()
 [![mastodon](https://user-images.githubusercontent.com/45159366/99155275-496a6e00-266b-11eb-96bd-72eeb9577f24.png)]()
 [![mattermost](https://user-images.githubusercontent.com/45159366/99155272-45d6e700-266b-11eb-8127-8714c8055728.png)]()
 [![telegram](https://user-images.githubusercontent.com/45159366/110253669-6b506f00-7f40-11eb-849c-a7417b5ca894.png)]()
 [![reddit](https://user-images.githubusercontent.com/45159366/99155278-4bccc800-266b-11eb-9316-ca6924a51b2f.png)]()
+
 [![facebook](https://user-images.githubusercontent.com/45159366/111086081-aa019e80-84d7-11eb-8a9f-813961c661c6.png)]()
 [![medium](https://user-images.githubusercontent.com/45159366/111086180-0795eb00-84d8-11eb-8c4a-c063382d7e65.png)]()
 [![rss](https://user-images.githubusercontent.com/45159366/111086083-ab32cb80-84d7-11eb-8e62-be11b8ed0b6d.png)]()
@@ -25,6 +27,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 [![Resume](https://user-images.githubusercontent.com/45159366/85609897-5e3a5c80-b60b-11ea-94d4-751c7385e80a.png)](https://github.com/mikeroyal/mikeroyal.github.io/files/5549564/Michael_Royal_Resume.pdf)
 
 ### Links to Project Profiles & Contributions
+
+![Project Profiles & Contributions](https://user-images.githubusercontent.com/45159366/86542054-ed2a5d00-bec6-11ea-875e-9909383fe64c.png)
 
 **[Project Profiles & Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4875593/Links.to.Project.Contributions.pdf)**
 
@@ -57,8 +61,6 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 **[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**
 
 **See more Guides below**
-
-![Project Profiles & Contributions](https://user-images.githubusercontent.com/45159366/86542054-ed2a5d00-bec6-11ea-875e-9909383fe64c.png)
 
 ### Guides
 
