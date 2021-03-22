@@ -61,6 +61,10 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**
 
+**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**
+
+**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**
+
 **See more Guides below**
 
 ### Guides
