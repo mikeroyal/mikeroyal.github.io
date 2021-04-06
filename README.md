@@ -39,9 +39,21 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[ARM (Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**
 
-**[Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide)**
+**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**
+
+**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**
+
+**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**
 
 **[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**
+
+**[Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide)**
+
+**[Ansible Guide](https://github.com/mikeroyal/Ansible-Guide)**
+
+**[Docker Guide](https://github.com/mikeroyal/Docker-Guide)**
+
+**[OpenStack Guide](https://github.com/mikeroyal/OpenStack-Guide)**
 
 **[Windows 10 Guide](https://github.com/mikeroyal/Windows-10-Guide)**
 
@@ -60,10 +72,6 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 **[SUSE Enterprise Linux--openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**
 
 **[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**
-
-**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**
-
-**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**
 
 **[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**
 
