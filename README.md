@@ -35,6 +35,14 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Developer Handook v1.0](https://github.com/mikeroyal/Developer-Handbook)**
 
+**[Amazon Web Services (AWS) Guide](https://github.com/mikeroyal/AWS-Guide)**
+
+**[Microsoft Azure Guide](https://github.com/mikeroyal/Azure-Guide)**
+
+**[Google Cloud Platform (GCP) Guide](https://github.com/mikeroyal/Google-Cloud-Guide)**
+
+**[OpenStack Guide](https://github.com/mikeroyal/OpenStack-Guide)**
+
 **[Windows Subsystem for Linux (WSL) Guide](https://github.com/mikeroyal/WSL-Guide)**
 
 **[ARM (Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**
@@ -49,11 +57,11 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide)**
 
+**[OpenShift Guide](https://github.com/mikeroyal/OpenShift-Guide)**
+
 **[Ansible Guide](https://github.com/mikeroyal/Ansible-Guide)**
 
 **[Docker Guide](https://github.com/mikeroyal/Docker-Guide)**
-
-**[OpenStack Guide](https://github.com/mikeroyal/OpenStack-Guide)**
 
 **[Windows 10 Guide](https://github.com/mikeroyal/Windows-10-Guide)**
 
@@ -72,8 +80,6 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 **[SUSE Enterprise Linux--openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**
 
 **[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**
-
-**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**
 
 **See more Guides below**
 
