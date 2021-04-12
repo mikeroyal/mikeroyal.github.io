@@ -6,16 +6,14 @@
 I am a highly motivated engineer who is able to bring key analytical problem-solving skills & solutions to any project I approach. I infuse my own creativity and style to keep team members focused and meet deadlines under pressure with a high success rate; and having exceptional communication and organization skills that are needed to successfully achieve any deadline set for a project. In my free time I'm contributing to many open source projects, playing my guitar, and occasionally playing some videogames.
 
 [![GitHub](https://user-images.githubusercontent.com/45159366/94374332-67cad900-00c0-11eb-953d-8727aae8031d.png)](https://github.com/mikeroyal)
-[![gitlab](https://user-images.githubusercontent.com/45159366/114456888-3fa15400-9b92-11eb-95d0-814c7bc2e118.png)](https://gitlab.com/maos20008)
+[![Gitlab](https://user-images.githubusercontent.com/45159366/114458301-e20e0700-9b93-11eb-8b4a-81784aba901c.png)](https://gitlab.com/maos20008)
 [![Twitter](https://user-images.githubusercontent.com/45159366/85327986-bdba3000-b484-11ea-87f0-20be14e54852.png)](https://twitter.com/Miker256)
-[![Insta](https://user-images.githubusercontent.com/45159366/110253503-9090ad80-7f3f-11eb-941d-7d733df0036f.png)]()
 [![YouTube](https://user-images.githubusercontent.com/45159366/95527913-81570500-098b-11eb-9d12-7601543de4aa.png)]()
 [![Twitch](https://user-images.githubusercontent.com/45159366/95504868-3ecd0280-0962-11eb-8ec2-a6c84182fb3e.png)](https://www.twitch.tv/r0yal_games)
 [![Discord](https://user-images.githubusercontent.com/45159366/114456852-3617ec00-9b92-11eb-9446-7ecd481c0ba1.png)]()
 [![stackoverflow](https://user-images.githubusercontent.com/45159366/99306249-c7fd1200-2809-11eb-9a9b-c874387bfcf6.png)]()
 [![telegram](https://user-images.githubusercontent.com/45159366/114456871-3a440980-9b92-11eb-9141-63c3add3fea7.png)]()
 [![reddit](https://user-images.githubusercontent.com/45159366/114456858-37491900-9b92-11eb-9420-cb749e122dd8.png)]()
-[![rss](https://user-images.githubusercontent.com/45159366/114456880-3ca66380-9b92-11eb-87b3-31f55dc01d11.png)]()
 [![slack](https://user-images.githubusercontent.com/45159366/114456875-3b753680-9b92-11eb-86e4-202149551fad.png)]()
 [![podcast](https://user-images.githubusercontent.com/45159366/111213748-54d49400-858e-11eb-8d89-80e7798774dd.png)]()
 [![Linkedin](https://user-images.githubusercontent.com/45159366/85327989-beeb5d00-b484-11ea-9996-d6042a365e34.png)](https://www.linkedin.com/in/michael-royal-b923b4134/)
