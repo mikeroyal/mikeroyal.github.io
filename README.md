@@ -11,7 +11,6 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 [![YouTube](https://user-images.githubusercontent.com/45159366/95527913-81570500-098b-11eb-9d12-7601543de4aa.png)]()
 [![Twitch](https://user-images.githubusercontent.com/45159366/95504868-3ecd0280-0962-11eb-8ec2-a6c84182fb3e.png)](https://www.twitch.tv/r0yal_games)
 [![Discord](https://user-images.githubusercontent.com/45159366/114456852-3617ec00-9b92-11eb-9446-7ecd481c0ba1.png)]()
-[![stackoverflow](https://user-images.githubusercontent.com/45159366/99306249-c7fd1200-2809-11eb-9a9b-c874387bfcf6.png)]()
 [![telegram](https://user-images.githubusercontent.com/45159366/114456871-3a440980-9b92-11eb-9141-63c3add3fea7.png)]()
 [![reddit](https://user-images.githubusercontent.com/45159366/114456858-37491900-9b92-11eb-9420-cb749e122dd8.png)]()
 [![slack](https://user-images.githubusercontent.com/45159366/114456875-3b753680-9b92-11eb-86e4-202149551fad.png)]()
