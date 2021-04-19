@@ -35,15 +35,19 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[OpenStack Guide](https://github.com/mikeroyal/OpenStack-Guide)**
 
+**[VMware Guide](https://github.com/mikeroyal/VMware-Guide)**
+
 **[Windows Subsystem for Linux (WSL) Guide](https://github.com/mikeroyal/WSL-Guide)**
 
 **[ARM (Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**
+
+**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**
 
 **[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**
 
 **[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**
 
-**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**
+**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**
 
 **[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**
 
