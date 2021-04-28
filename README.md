@@ -33,6 +33,10 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Google Cloud Platform (GCP) Guide](https://github.com/mikeroyal/Google-Cloud-Guide)**
 
+**[IBM Cloud Guide](https://github.com/mikeroyal/IBM-Cloud-Guide)**
+
+**[Oracle Cloud Guide](https://github.com/mikeroyal/Oracle-Cloud-Guide)**
+
 **[OpenStack Guide](https://github.com/mikeroyal/OpenStack-Guide)**
 
 **[VMware Guide](https://github.com/mikeroyal/VMware-Guide)**
