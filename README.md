@@ -16,7 +16,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 [![slack](https://user-images.githubusercontent.com/45159366/114456875-3b753680-9b92-11eb-86e4-202149551fad.png)]()
 [![podcast](https://user-images.githubusercontent.com/45159366/111213748-54d49400-858e-11eb-8d89-80e7798774dd.png)]()
 [![Linkedin](https://user-images.githubusercontent.com/45159366/85327989-beeb5d00-b484-11ea-9996-d6042a365e34.png)](https://www.linkedin.com/in/michael-royal-b923b4134/)
-[![Resume](https://user-images.githubusercontent.com/45159366/85609897-5e3a5c80-b60b-11ea-94d4-751c7385e80a.png)](https://github.com/mikeroyal/mikeroyal.github.io/files/5549564/Michael_Royal_Resume.pdf)
+[![Resume](https://user-images.githubusercontent.com/45159366/85609897-5e3a5c80-b60b-11ea-94d4-751c7385e80a.png)](https://github.com/mikeroyal/mikeroyal.github.io/files/6394433/Michael_Royal_Resume.pdf)
 
 
 ### Links to Project Profiles & Contributions
