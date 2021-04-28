@@ -21,7 +21,9 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 ### Links to Project Profiles & Contributions
 
-![Project Profiles & Contributions](https://user-images.githubusercontent.com/45159366/86542054-ed2a5d00-bec6-11ea-875e-9909383fe64c.png)
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/86542054-ed2a5d00-bec6-11ea-875e-9909383fe64c.png">
+ </p>
 
 **[Project Profiles & Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4875593/Links.to.Project.Contributions.pdf)**
 
@@ -117,7 +119,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 
 | Currently working on|  |
-| ----------| --------------- | 
+| :----------:| :---------------: | 
 |![Azure](https://user-images.githubusercontent.com/45159366/100673067-af1b5300-3317-11eb-9f63-5839e9242f10.png)| [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/learn/certifications/azure-developer)|
 |![AWS](https://user-images.githubusercontent.com/45159366/100673070-b04c8000-3317-11eb-90bc-eded03b6e272.png) |[AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)|
 |![GCP](https://user-images.githubusercontent.com/45159366/100673076-b17dad00-3317-11eb-8fda-ec5adcd7df29.png)| [Google Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)|
