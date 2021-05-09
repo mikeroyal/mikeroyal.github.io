@@ -30,32 +30,32 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 **[Developer Handook v1.0](https://github.com/mikeroyal/Developer-Handbook)**
 
 | Cloud|  |
-| :----------:| :---------------: | 
+| ----------| --------------- | 
 |**[Amazon Web Services (AWS) Guide](https://github.com/mikeroyal/AWS-Guide)**|**[Microsoft Azure Guide](https://github.com/mikeroyal/Azure-Guide)**|
 |**[Google Cloud Platform (GCP) Guide](https://github.com/mikeroyal/Google-Cloud-Guide)**|**[IBM Cloud Guide](https://github.com/mikeroyal/IBM-Cloud-Guide)**|
 |**[Oracle Cloud Guide](https://github.com/mikeroyal/Oracle-Cloud-Guide)**| **[SAP Cloud Platform Guide](https://github.com/mikeroyal/SAP-Guide)**|
 |**[OpenStack Guide](https://github.com/mikeroyal/OpenStack-Guide)**| **[VMware Guide](https://github.com/mikeroyal/VMware-Guide)**|
-|**[Cisco Guide](https://github.com/mikeroyal/Cisco-Guide)| **[Hewlett Packard Enterprise(HPE) Cloud Guide](https://github.com/mikeroyal/HPE-Guide)**|
+|**[Cisco Guide](https://github.com/mikeroyal/Cisco-Guide)**| **[Hewlett Packard Enterprise(HPE) Cloud Guide](https://github.com/mikeroyal/HPE-Guide)**|
 |**[Salesforce Guide](https://github.com/mikeroyal/Salesforce-Guide)**|**[Adobe Experience Cloud Guide](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide)**|
 |**[DigitalOcean Guide](https://github.com/mikeroyal/DigitalOcean-Guide)**|**[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**|
 
 
 | Hardware|  |
-| :----------:| :---------------: | 
+| ----------| --------------- | 
 |**[ARM (Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
 |**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
 |**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**| **[LabVIEW Guide](https://github.com/mikeroyal/LabVIEW-Guide)**|
 
 
 | DevOps|  |
-| :----------:| :---------------: | 
+| ----------| --------------- | 
 |**[Windows Subsystem for Linux (WSL) Guide](https://github.com/mikeroyal/WSL-Guide)**|**[Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide)**|
 |**[OpenShift Guide](https://github.com/mikeroyal/OpenShift-Guide)**|**[Ansible Guide](https://github.com/mikeroyal/Ansible-Guide)**|
 |**[Docker Guide](https://github.com/mikeroyal/Docker-Guide)**|**[Agile Development Guide](https://github.com/mikeroyal/Agile-Guide)** |
 
 
 | Operating Systems|  |
-| :----------:| :---------------: | 
+| ----------| --------------- | 
 |**[Windows 10 Guide](https://github.com/mikeroyal/Windows-10-Guide)**|**[macOS--iOS--iPadOS Guide](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide)**|
 |**[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**|**[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)**|
 |**[Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)**|**[Debian Guide](https://github.com/mikeroyal/Debian-Guide)**|
