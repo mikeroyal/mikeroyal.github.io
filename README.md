@@ -29,65 +29,43 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Developer Handook v1.0](https://github.com/mikeroyal/Developer-Handbook)**
 
-**[Amazon Web Services (AWS) Guide](https://github.com/mikeroyal/AWS-Guide)**
+| Cloud|  |
+| :----------:| :---------------: | 
+|**[Amazon Web Services (AWS) Guide](https://github.com/mikeroyal/AWS-Guide)**|**[Microsoft Azure Guide](https://github.com/mikeroyal/Azure-Guide)**|
+|**[Google Cloud Platform (GCP) Guide](https://github.com/mikeroyal/Google-Cloud-Guide)**|**[IBM Cloud Guide](https://github.com/mikeroyal/IBM-Cloud-Guide)**|
+|**[Oracle Cloud Guide](https://github.com/mikeroyal/Oracle-Cloud-Guide)**| **[SAP Cloud Platform Guide](https://github.com/mikeroyal/SAP-Guide)**|
+|**[OpenStack Guide](https://github.com/mikeroyal/OpenStack-Guide)**| **[VMware Guide](https://github.com/mikeroyal/VMware-Guide)**|
+|**[Cisco Guide](https://github.com/mikeroyal/Cisco-Guide)| **[Hewlett Packard Enterprise(HPE) Cloud Guide](https://github.com/mikeroyal/HPE-Guide)**|
+|**[Salesforce Guide](https://github.com/mikeroyal/Salesforce-Guide)**|**[Adobe Experience Cloud Guide](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide)**|
+|**[DigitalOcean Guide](https://github.com/mikeroyal/DigitalOcean-Guide)**|**[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**|
 
-**[Microsoft Azure Guide](https://github.com/mikeroyal/Azure-Guide)**
 
-**[Google Cloud Platform (GCP) Guide](https://github.com/mikeroyal/Google-Cloud-Guide)**
+| Hardware|  |
+| :----------:| :---------------: | 
+|**[ARM (Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
+|**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
+|**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**| **[LabVIEW Guide](https://github.com/mikeroyal/LabVIEW-Guide)**|
 
-**[IBM Cloud Guide](https://github.com/mikeroyal/IBM-Cloud-Guide)**
 
-**[Oracle Cloud Guide](https://github.com/mikeroyal/Oracle-Cloud-Guide)**
+| DevOps|  |
+| :----------:| :---------------: | 
+|**[Windows Subsystem for Linux (WSL) Guide](https://github.com/mikeroyal/WSL-Guide)**|**[Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide)**|
+|**[OpenShift Guide](https://github.com/mikeroyal/OpenShift-Guide)**|**[Ansible Guide](https://github.com/mikeroyal/Ansible-Guide)**|
+|**[Docker Guide](https://github.com/mikeroyal/Docker-Guide)**|**[Agile Development Guide](https://github.com/mikeroyal/Agile-Guide)** |
 
-**[OpenStack Guide](https://github.com/mikeroyal/OpenStack-Guide)**
 
-**[VMware Guide](https://github.com/mikeroyal/VMware-Guide)**
+| Operating Systems|  |
+| :----------:| :---------------: | 
+|**[Windows 10 Guide](https://github.com/mikeroyal/Windows-10-Guide)**|**[macOS--iOS--iPadOS Guide](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide)**|
+|**[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**|**[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)**|
+|**[Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)**|**[Debian Guide](https://github.com/mikeroyal/Debian-Guide)**|
+|**[Fedora--CentOS Stream--RHEL Guide](https://github.com/mikeroyal/Fedora-Guide)**|**[SUSE Enterprise Linux--openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**|
+|**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**|**[Linux](https://github.com/mikeroyal/Linux-Guide)** |
 
-**[Windows Subsystem for Linux (WSL) Guide](https://github.com/mikeroyal/WSL-Guide)**
-
-**[ARM (Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**
-
-**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**
-
-**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**
-
-**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**
-
-**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**
-
-**[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**
-
-**[Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide)**
-
-**[OpenShift Guide](https://github.com/mikeroyal/OpenShift-Guide)**
-
-**[Ansible Guide](https://github.com/mikeroyal/Ansible-Guide)**
-
-**[Docker Guide](https://github.com/mikeroyal/Docker-Guide)**
-
-**[Windows 10 Guide](https://github.com/mikeroyal/Windows-10-Guide)**
-
-**[macOS--iOS--iPadOS Guide](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide)**
-
-**[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**
-
-**[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)**
-
-**[Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)**
-
-**[Debian Guide](https://github.com/mikeroyal/Debian-Guide)**
-
-**[Fedora--CentOS Stream--Red Hat Enterprise Linux Guide](https://github.com/mikeroyal/Fedora-Guide)**
-
-**[SUSE Enterprise Linux--openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**
-
-**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**
 
 **See more Guides below**
 
-### Guides
-
-| Section 1 | Section 2 | Section 3 |
+| Guides |  |  |
 | --------------- | --------------- | --------------- |
 | 1. [DevOps](https://github.com/mikeroyal/DevOps-Guide)|  21. [Swift](https://github.com/mikeroyal/Swift-Guide)| 41. [Objective-C](https://github.com/mikeroyal/Objective-C-Guide)|
 | 2. [IoT](https://github.com/mikeroyal/IoT-Guide)| 22. [Golang](https://github.com/mikeroyal/Go-Guide)| 42. [Qt](https://github.com/mikeroyal/Qt-Guide)| 
