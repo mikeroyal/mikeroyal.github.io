@@ -60,7 +60,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**|**[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)**|
 |**[Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)**|**[Debian Guide](https://github.com/mikeroyal/Debian-Guide)**|
 |**[Fedora--CentOS Stream--RHEL Guide](https://github.com/mikeroyal/Fedora-Guide)**|**[SUSE Enterprise Linux--openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**|
-|**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**|**[Linux](https://github.com/mikeroyal/Linux-Guide)** |
+|**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**|**[Linux Guide](https://github.com/mikeroyal/Linux-Guide)** |
 
 
 **See more Guides below**
