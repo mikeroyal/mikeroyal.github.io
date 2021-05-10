@@ -35,7 +35,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Google Cloud Platform (GCP) Guide](https://github.com/mikeroyal/Google-Cloud-Guide)**|**[IBM Cloud Guide](https://github.com/mikeroyal/IBM-Cloud-Guide)**|
 |**[Oracle Cloud Guide](https://github.com/mikeroyal/Oracle-Cloud-Guide)**| **[SAP Cloud Platform Guide](https://github.com/mikeroyal/SAP-Guide)**|
 |**[OpenStack Guide](https://github.com/mikeroyal/OpenStack-Guide)**| **[VMware Guide](https://github.com/mikeroyal/VMware-Guide)**|
-|**[Cisco Guide](https://github.com/mikeroyal/Cisco-Guide)**| **[Hewlett Packard Enterprise(HPE) Cloud Guide](https://github.com/mikeroyal/HPE-Guide)**|
+|**[Cisco Guide](https://github.com/mikeroyal/Cisco-Guide)**| **[HPE Cloud Guide](https://github.com/mikeroyal/HPE-Guide)**|
 |**[Salesforce Guide](https://github.com/mikeroyal/Salesforce-Guide)**|**[Adobe Experience Cloud Guide](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide)**|
 |**[DigitalOcean Guide](https://github.com/mikeroyal/DigitalOcean-Guide)**|**[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**|
 
@@ -45,7 +45,16 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[ARM (Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
 |**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
 |**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**| **[LabVIEW Guide](https://github.com/mikeroyal/LabVIEW-Guide)**|
+|**[Robotics](https://github.com/mikeroyal/Robotics-guide)**|**[FPGA](https://github.com/mikeroyal/FPGA-Guide)**|
 
+| Artificial Intelligence (AI) |  |
+| :----------:| :---------------: | 
+|**[Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)**|**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|
+|**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|**[MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide)**|
+
+| Security & Privacy|  |
+| :----------:| :---------------: | 
+|**[Open Source Security](https://github.com/mikeroyal/Open-Source-Security-Guide)**|**[Differential Privacy](https://github.com/mikeroyal/Differential-Privacy-Guide)**|
 
 | DevOps|  |
 | ----------| --------------- | 
@@ -61,6 +70,11 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)**|**[Debian Guide](https://github.com/mikeroyal/Debian-Guide)**|
 |**[Fedora--CentOS Stream--RHEL Guide](https://github.com/mikeroyal/Fedora-Guide)**|**[SUSE Enterprise Linux--openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**|
 |**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**|**[Linux Guide](https://github.com/mikeroyal/Linux-Guide)** |
+
+| 3D Graphics|  |
+| :----------:| :---------------: | 
+|**[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)**|**[3D Graphics & Design Guide](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)**|
+|**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**||
 
 
 **See more Guides below**
