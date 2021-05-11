@@ -48,12 +48,12 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Robotics Guide](https://github.com/mikeroyal/Robotics-guide)**|**[FPGA Guide](https://github.com/mikeroyal/FPGA-Guide)**|
 
 | Artificial Intelligence (AI) |  |
-| :----------:| :---------------: | 
+| ----------| --------------- | 
 |**[Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)**|**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|
 |**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|**[MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide)**|
 
 | Security & Privacy|  |
-| :----------:| :---------------: | 
+| ----------| --------------- | 
 |**[Open Source Security](https://github.com/mikeroyal/Open-Source-Security-Guide)**|**[Differential Privacy](https://github.com/mikeroyal/Differential-Privacy-Guide)**|
 
 | DevOps|  |
@@ -72,7 +72,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**|**[Linux Guide](https://github.com/mikeroyal/Linux-Guide)** |
 
 | 3D Graphics|  |
-| :----------:| :---------------: | 
+| ----------| --------------- | 
 |**[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)**|**[3D Graphics & Design Guide](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)**|
 |**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**|
 
