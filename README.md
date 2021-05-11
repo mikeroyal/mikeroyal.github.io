@@ -45,7 +45,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[ARM (Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
 |**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
 |**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**| **[LabVIEW Guide](https://github.com/mikeroyal/LabVIEW-Guide)**|
-|**[Robotics](https://github.com/mikeroyal/Robotics-guide)**|**[FPGA](https://github.com/mikeroyal/FPGA-Guide)**|
+|**[Robotics Guide](https://github.com/mikeroyal/Robotics-guide)**|**[FPGA Guide](https://github.com/mikeroyal/FPGA-Guide)**|
 
 | Artificial Intelligence (AI) |  |
 | :----------:| :---------------: | 
@@ -74,7 +74,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | 3D Graphics|  |
 | :----------:| :---------------: | 
 |**[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)**|**[3D Graphics & Design Guide](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)**|
-|**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**||
+|**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**|
 
 
 **See more Guides below**
