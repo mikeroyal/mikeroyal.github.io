@@ -76,11 +76,12 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)**|**[3D Graphics & Design Guide](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)**|
 |**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**|
 
-| Web Development|  |
+| Web/Mobile Development|  |
 | :----------:| :---------------: | 
 |**[Java Guide](https://github.com/mikeroyal/Java-Guide)**|**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|
 |**[Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)**|**[PHP Guide](https://github.com/mikeroyal/PHP-Guide)**|
 |**[C# Guide](https://github.com/mikeroyal/C-Sharp-Guide)**|**[.NET/.NET Core Guide](https://github.com/mikeroyal/.NET-Guide)**|
+|**[Rust Guide](https://github.com/mikeroyal/Rust_lang-Guide)**|**[Golang Guide](https://github.com/mikeroyal/Go-Guide)**|
 |**[React](https://github.com/mikeroyal/ReactJS-Guide)**|**[WebAssembly Guide](https://github.com/mikeroyal/WebAssembly-Guide)**|
 |**[Angular Guide](https://github.com/mikeroyal/Angular-Guide)**|**[VueJS Guide](https://github.com/mikeroyal/VueJS-Guide)**
 |**[Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)**|**[TypeScript Guide](https://github.com/mikeroyal/TypeScript-Guide)**|
