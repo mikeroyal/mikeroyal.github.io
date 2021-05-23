@@ -80,7 +80,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**|
 
 | Audio/Video|  |
-| :----------:| :---------------: | 
+| ----------| --------------- | 
 |**[Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)**|**[Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)**|
 
 | Web/Mobile Development|  |
