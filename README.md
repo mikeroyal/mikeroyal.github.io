@@ -46,11 +46,14 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
 |**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**| **[LabVIEW Guide](https://github.com/mikeroyal/LabVIEW-Guide)**|
 |**[Robotics Guide](https://github.com/mikeroyal/Robotics-guide)**|**[FPGA Guide](https://github.com/mikeroyal/FPGA-Guide)**|
+|**[C/C++ Guide](https://github.com/mikeroyal/CPP-Guide)**|**[Rust Guide](https://github.com/mikeroyal/Rust_lang-Guide)**|
 
 | Artificial Intelligence (AI) |  |
 | ----------| --------------- | 
 |**[Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)**|**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|
 |**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|**[MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide)**|
+|**[C/C++ Guide](https://github.com/mikeroyal/CPP-Guide)**|**[Java Guide](https://github.com/mikeroyal/Java-Guide)**|
+|**[R Guide](https://github.com/mikeroyal/R-Guide)**|**[Julia Guide](https://github.com/mikeroyal/Julia_lang-Guide)**|
 
 | Security & Privacy|  |
 | ----------| --------------- | 
@@ -76,14 +79,19 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)**|**[3D Graphics & Design Guide](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)**|
 |**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**|
 
+| Audio/Video|  |
+| :----------:| :---------------: | 
+|**[Audio & Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)**|**[Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)**|
+
 | Web/Mobile Development|  |
 | :----------:| :---------------: | 
 |**[Java Guide](https://github.com/mikeroyal/Java-Guide)**|**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|
 |**[Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)**|**[PHP Guide](https://github.com/mikeroyal/PHP-Guide)**|
 |**[C# Guide](https://github.com/mikeroyal/C-Sharp-Guide)**|**[.NET/.NET Core Guide](https://github.com/mikeroyal/.NET-Guide)**|
-|**[Rust Guide](https://github.com/mikeroyal/Rust_lang-Guide)**|**[Golang Guide](https://github.com/mikeroyal/Go-Guide)**|
-|**[React Guide](https://github.com/mikeroyal/ReactJS-Guide)**|**[WebAssembly Guide](https://github.com/mikeroyal/WebAssembly-Guide)**|
-|**[Angular Guide](https://github.com/mikeroyal/Angular-Guide)**|**[Vue.js Guide](https://github.com/mikeroyal/VueJS-Guide)**
+|**[Swift Guide](https://github.com/mikeroyal/Swift-Guide)**|**[Kotlin Guide](https://github.com/mikeroyal/Kotlin-Guide)**|
+|**[SQL/NoSQL DB Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide)**|**[WebAssembly Guide](https://github.com/mikeroyal/WebAssembly-Guide)**|
+|**[Golang Guide](https://github.com/mikeroyal/Go-Guide)**|**[React](https://github.com/mikeroyal/ReactJS-Guide)**|
+|**[Angular Guide](https://github.com/mikeroyal/Angular-Guide)**|**[VueJS Guide](https://github.com/mikeroyal/VueJS-Guide)**
 |**[Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)**|**[TypeScript Guide](https://github.com/mikeroyal/TypeScript-Guide)**|
 |**[HMTL/CSS Guide](https://github.com/mikeroyal/HMTL-CSS-Guide)**|**[Bootstrap Guide](https://github.com/mikeroyal/Bootstrap-Guide)**|
 
