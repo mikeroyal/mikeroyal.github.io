@@ -81,7 +81,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 | Audio/Video|  |
 | :----------:| :---------------: | 
-|**[Audio & Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)**|**[Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)**|
+|**[Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)**|**[Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)**|
 
 | Web/Mobile Development|  |
 | :----------:| :---------------: | 
@@ -110,7 +110,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | 9. [Assembly(x86)](https://github.com/mikeroyal/Assembly-Guide)| 29. [WebAssembly](https://github.com/mikeroyal/WebAssembly-Guide)|49. [Haskell](https://github.com/mikeroyal/Haskell-Guide)|
 | 10. [Machine Learning](https://github.com/mikeroyal/Machine-Learning-Guide)|30. [CUDA](https://github.com/mikeroyal/CUDA-Guide)| 50. [PHP](https://github.com/mikeroyal/PHP-Guide)
 | 11. [Python Guide](https://github.com/mikeroyal/Python-Guide)|31. [Julia](https://github.com/mikeroyal/Julia_lang-Guide)|51. [Robotics](https://github.com/mikeroyal/Robotics-guide)|
-| 12. [SQL](https://github.com/mikeroyal/SQL-Guide)| 32. [R](https://github.com/mikeroyal/R-Guide)|52. [WSL](https://github.com/mikeroyal/WSL-Guide) |
+| 12. [SQL/NoSQL DB](https://github.com/mikeroyal/SQL-NoSQL-Guide)| 32. [R](https://github.com/mikeroyal/R-Guide)|52. [WSL](https://github.com/mikeroyal/WSL-Guide) |
 | 13. [HMTL/CSS](https://github.com/mikeroyal/HMTL-CSS-Guide)| 33. [MATLAB](https://github.com/mikeroyal/MATLAB-Guide)|53. [3D Graphics & Design](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)|
 | 14. [React](https://github.com/mikeroyal/ReactJS-Guide)  |34. [Bash/Shell/PowerShell](https://github.com/mikeroyal/Bash-Shell-Powershell-Guide) |54. [Game Development](https://github.com/mikeroyal/Game-Development-Guide)| 
 | 15. [Angular](https://github.com/mikeroyal/Angular-Guide) | 35. [C#](https://github.com/mikeroyal/C-Sharp-Guide)|55. [Blockchain](https://github.com/mikeroyal/Blockchain-Guide)|
