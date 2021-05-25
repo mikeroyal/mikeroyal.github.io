@@ -88,7 +88,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Java Guide](https://github.com/mikeroyal/Java-Guide)**|**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|
 |**[Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)**|**[PHP Guide](https://github.com/mikeroyal/PHP-Guide)**|
 |**[C# Guide](https://github.com/mikeroyal/C-Sharp-Guide)**|**[.NET/.NET Core Guide](https://github.com/mikeroyal/.NET-Guide)**|
-|**[F# Guide](https://github.com/mikeroyal/F-Sharp-Guide)**|**[Elixir](https://github.com/mikeroyal/Elixir-Guide)**|
+|**[F# Guide](https://github.com/mikeroyal/F-Sharp-Guide)**|**[Elixir Guide](https://github.com/mikeroyal/Elixir-Guide)**|
 |**[Swift Guide](https://github.com/mikeroyal/Swift-Guide)**|**[Kotlin Guide](https://github.com/mikeroyal/Kotlin-Guide)**|
 |**[SQL/NoSQL DB Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide)**|**[WebAssembly Guide](https://github.com/mikeroyal/WebAssembly-Guide)**|
 |**[Golang Guide](https://github.com/mikeroyal/Go-Guide)**|**[React](https://github.com/mikeroyal/ReactJS-Guide)**|
