@@ -94,6 +94,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Golang Guide](https://github.com/mikeroyal/Go-Guide)**|**[React Guide](https://github.com/mikeroyal/ReactJS-Guide)**|
 |**[Angular Guide](https://github.com/mikeroyal/Angular-Guide)**|**[VueJS Guide](https://github.com/mikeroyal/VueJS-Guide)**
 |**[Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)**|**[TypeScript Guide](https://github.com/mikeroyal/TypeScript-Guide)**|
+|**[Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)**||**[Firebase Guide](https://github.com/mikeroyal/Firebase-Guide)**|
 |**[HMTL/CSS Guide](https://github.com/mikeroyal/HMTL-CSS-Guide)**|**[Bootstrap Guide](https://github.com/mikeroyal/Bootstrap-Guide)**|
 
 **See more Guides below**
