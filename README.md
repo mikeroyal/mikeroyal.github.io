@@ -98,9 +98,6 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[GraphQL Guide](https://github.com/mikeroyal/GraphQL-Guide)**|**[Electron Guide](https://github.com/mikeroyal/Electron-Guide)**|
 |**[Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)**|**[Firebase Guide](https://github.com/mikeroyal/Firebase-Guide)**|
 |**[HMTL/CSS Guide](https://github.com/mikeroyal/HMTL-CSS-Guide)**|**[Bootstrap Guide](https://github.com/mikeroyal/Bootstrap-Guide)**|
-
-|E-commerce||
-|-----------|-----------|
 |**[Shopify Guide](https://github.com/mikeroyal/Shopify-Guide)**|**[WordPress Guide](https://github.com/mikeroyal/WordPress-Guide)**|
 
 **See more Guides below**
