@@ -69,7 +69,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | Operating Systems|  |
 | ----------| --------------- | 
 |**[Windows 10 Guide](https://github.com/mikeroyal/Windows-10-Guide)**|**[macOS--iOS--iPadOS Guide](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide)**|
-|**[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**|**[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)**|
+|**[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**|**[Android Guide](https://github.com/mikeroyal/Android-Guide)**|
+|**[Fuchsia Guide](https://github.com/mikeroyal/Fuchsia-Guide)**|**[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)**|
 |**[Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)**|**[Debian Guide](https://github.com/mikeroyal/Debian-Guide)**|
 |**[Fedora--CentOS Stream--RHEL Guide](https://github.com/mikeroyal/Fedora-Guide)**|**[SUSE Enterprise Linux--openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**|
 |**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**|**[Linux Guide](https://github.com/mikeroyal/Linux-Guide)** |
@@ -94,8 +95,13 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Golang Guide](https://github.com/mikeroyal/Go-Guide)**|**[React Guide](https://github.com/mikeroyal/ReactJS-Guide)**|
 |**[Angular Guide](https://github.com/mikeroyal/Angular-Guide)**|**[VueJS Guide](https://github.com/mikeroyal/VueJS-Guide)**
 |**[Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)**|**[TypeScript Guide](https://github.com/mikeroyal/TypeScript-Guide)**|
+|**[GraphQL Guide](https://github.com/mikeroyal/GraphQL-Guide)**|**[Electron Guide](https://github.com/mikeroyal/Electron-Guide)**|
 |**[Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)**|**[Firebase Guide](https://github.com/mikeroyal/Firebase-Guide)**|
 |**[HMTL/CSS Guide](https://github.com/mikeroyal/HMTL-CSS-Guide)**|**[Bootstrap Guide](https://github.com/mikeroyal/Bootstrap-Guide)**|
+
+|E-commerce||
+|-----------|-----------|
+|**[Shopify Guide](https://github.com/mikeroyal/Shopify-Guide)**|**[WordPress Guide](https://github.com/mikeroyal/WordPress-Guide)**|
 
 **See more Guides below**
 
