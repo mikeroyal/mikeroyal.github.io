@@ -39,7 +39,6 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Salesforce Guide](https://github.com/mikeroyal/Salesforce-Guide)**|**[Adobe Experience Cloud Guide](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide)**|
 |**[DigitalOcean Guide](https://github.com/mikeroyal/DigitalOcean-Guide)**|**[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**|
 
-
 | Hardware|  |
 | ----------| --------------- | 
 |**[ARM (Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
@@ -54,6 +53,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|**[MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide)**|
 |**[C/C++ Guide](https://github.com/mikeroyal/CPP-Guide)**|**[Java Guide](https://github.com/mikeroyal/Java-Guide)**|
 |**[R Guide](https://github.com/mikeroyal/R-Guide)**|**[Julia Guide](https://github.com/mikeroyal/Julia_lang-Guide)**|
+|**[Scala Guide](https://github.com/mikeroyal/Scala-Guide)**|**[Haskell Guide](https://github.com/mikeroyal/Haskell-Guide)**|
 
 | Security & Privacy|  |
 | ----------| --------------- | 
@@ -65,7 +65,6 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[OpenShift Guide](https://github.com/mikeroyal/OpenShift-Guide)**|**[Ansible Guide](https://github.com/mikeroyal/Ansible-Guide)**|
 |**[Docker Guide](https://github.com/mikeroyal/Docker-Guide)**|**[Agile Development Guide](https://github.com/mikeroyal/Agile-Guide)** |
 
-
 | Operating Systems|  |
 | ----------| --------------- | 
 |**[Windows 10 Guide](https://github.com/mikeroyal/Windows-10-Guide)**|**[macOS--iOS--iPadOS Guide](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide)**|
@@ -75,15 +74,6 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Fedora--CentOS Stream--RHEL Guide](https://github.com/mikeroyal/Fedora-Guide)**|**[SUSE Enterprise Linux--openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**|
 |**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**|**[Linux Guide](https://github.com/mikeroyal/Linux-Guide)** |
 
-| 3D Graphics|  |
-| ----------| --------------- | 
-|**[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)**|**[3D Graphics & Design Guide](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)**|
-|**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**|
-
-| Audio/Video Content Development|  |
-| ----------| --------------- | 
-|**[Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)**|**[Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)**|
-
 | Web/Mobile Development|  |
 | :----------:| :---------------: | 
 |**[Java Guide](https://github.com/mikeroyal/Java-Guide)**|**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|
@@ -92,13 +82,24 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[F# Guide](https://github.com/mikeroyal/F-Sharp-Guide)**|**[Elixir Guide](https://github.com/mikeroyal/Elixir-Guide)**|
 |**[Swift Guide](https://github.com/mikeroyal/Swift-Guide)**|**[Kotlin Guide](https://github.com/mikeroyal/Kotlin-Guide)**|
 |**[SQL/NoSQL DB Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide)**|**[WebAssembly Guide](https://github.com/mikeroyal/WebAssembly-Guide)**|
+|**[GraphQL Guide](https://github.com/mikeroyal/GraphQL-Guide)| **[CodeQL Guide](https://github.com/mikeroyal/CodeQL-Guide)**|
 |**[Golang Guide](https://github.com/mikeroyal/Go-Guide)**|**[React Guide](https://github.com/mikeroyal/ReactJS-Guide)**|
 |**[Angular Guide](https://github.com/mikeroyal/Angular-Guide)**|**[VueJS Guide](https://github.com/mikeroyal/VueJS-Guide)**
 |**[Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)**|**[TypeScript Guide](https://github.com/mikeroyal/TypeScript-Guide)**|
-|**[GraphQL Guide](https://github.com/mikeroyal/GraphQL-Guide)**|**[Electron Guide](https://github.com/mikeroyal/Electron-Guide)**|
+|**[Electron Guide](https://github.com/mikeroyal/Electron-Guide)**|**[Erlang Guide](https://github.com/mikeroyal/Erlang-Guide)**|
 |**[Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)**|**[Firebase Guide](https://github.com/mikeroyal/Firebase-Guide)**|
 |**[HMTL/CSS Guide](https://github.com/mikeroyal/HMTL-CSS-Guide)**|**[Bootstrap Guide](https://github.com/mikeroyal/Bootstrap-Guide)**|
 |**[Shopify Guide](https://github.com/mikeroyal/Shopify-Guide)**|**[WordPress Guide](https://github.com/mikeroyal/WordPress-Guide)**|
+|**[Wix Guide](https://github.com/mikeroyal/Wix-Guide)**|**[jQuery Guide](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#72-jquery)**|
+
+| 3D Graphics|  |
+| ----------| --------------- | 
+|**[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)**|**[3D Graphics & Design Guide](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)**|
+|**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**|
+
+| Audio/Video Content Development|  |
+| ----------| --------------- | 
+|**[Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)**|**[Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)**|
 
 **See more Guides below**
 
