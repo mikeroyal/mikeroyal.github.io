@@ -41,8 +41,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 | Hardware|  |
 | ----------| --------------- | 
-|**[ARM (Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
-|**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
+|**[ARM (Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
+|**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
 |**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**| **[LabVIEW Guide](https://github.com/mikeroyal/LabVIEW-Guide)**|
 |**[Robotics Guide](https://github.com/mikeroyal/Robotics-guide)**|**[FPGA Guide](https://github.com/mikeroyal/FPGA-Guide)**|
 |**[C/C++ Guide](https://github.com/mikeroyal/CPP-Guide)**|**[Rust Guide](https://github.com/mikeroyal/Rust_lang-Guide)**|
@@ -86,11 +86,11 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Golang Guide](https://github.com/mikeroyal/Go-Guide)**|**[React Guide](https://github.com/mikeroyal/ReactJS-Guide)**|
 |**[Angular Guide](https://github.com/mikeroyal/Angular-Guide)**|**[VueJS Guide](https://github.com/mikeroyal/VueJS-Guide)**
 |**[Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)**|**[TypeScript Guide](https://github.com/mikeroyal/TypeScript-Guide)**|
-|**[Electron Guide](https://github.com/mikeroyal/Electron-Guide)**|**[Erlang Guide](https://github.com/mikeroyal/Erlang-Guide)**|
+|**[Electron Guide](https://github.com/mikeroyal/Electron-Guide)**|**[jQuery Guide](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#72-jquery)**|
 |**[Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)**|**[Firebase Guide](https://github.com/mikeroyal/Firebase-Guide)**|
 |**[HMTL/CSS Guide](https://github.com/mikeroyal/HMTL-CSS-Guide)**|**[Bootstrap Guide](https://github.com/mikeroyal/Bootstrap-Guide)**|
-|**[Shopify Guide](https://github.com/mikeroyal/Shopify-Guide)**|**[WordPress Guide](https://github.com/mikeroyal/WordPress-Guide)**|
-|**[Wix Guide](https://github.com/mikeroyal/Wix-Guide)**|**[jQuery Guide](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#72-jquery)**|
+|**[Erlang Guide](https://github.com/mikeroyal/Erlang-Guide)**|**[Shopify Guide](https://github.com/mikeroyal/Shopify-Guide)**|
+|**[WordPress Guide](https://github.com/mikeroyal/WordPress-Guide)**|**[Wix Guide](https://github.com/mikeroyal/Wix-Guide)**|
 
 | 3D Graphics|  |
 | ----------| --------------- | 
