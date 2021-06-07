@@ -29,8 +29,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Developer Handook v1.0](https://github.com/mikeroyal/Developer-Handbook)**
 
-| Cloud|  |
-| ----------| --------------- | 
+| **Cloud**|  |
+| :----------| :--------------- | 
 |**[Amazon Web Services (AWS) Guide](https://github.com/mikeroyal/AWS-Guide)**|**[Microsoft Azure Guide](https://github.com/mikeroyal/Azure-Guide)**|
 |**[Google Cloud Platform (GCP) Guide](https://github.com/mikeroyal/Google-Cloud-Guide)**|**[IBM Cloud Guide](https://github.com/mikeroyal/IBM-Cloud-Guide)**|
 |**[Oracle Cloud Guide](https://github.com/mikeroyal/Oracle-Cloud-Guide)**| **[SAP Cloud Platform Guide](https://github.com/mikeroyal/SAP-Guide)**|
@@ -38,44 +38,44 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Cisco Guide](https://github.com/mikeroyal/Cisco-Guide)**| **[HPE Cloud Guide](https://github.com/mikeroyal/HPE-Guide)**|
 |**[Salesforce Guide](https://github.com/mikeroyal/Salesforce-Guide)**|**[Adobe Experience Cloud Guide](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide)**|
 |**[DigitalOcean Guide](https://github.com/mikeroyal/DigitalOcean-Guide)**|**[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**|
-
-| Hardware|  |
-| ----------| --------------- | 
+|| |
+| **Hardware**|  |
+||| 
 |**[ARM (Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
 |**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
 |**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**| **[LabVIEW Guide](https://github.com/mikeroyal/LabVIEW-Guide)**|
 |**[Robotics Guide](https://github.com/mikeroyal/Robotics-guide)**|**[FPGA Guide](https://github.com/mikeroyal/FPGA-Guide)**|
 |**[C/C++ Guide](https://github.com/mikeroyal/CPP-Guide)**|**[Rust Guide](https://github.com/mikeroyal/Rust_lang-Guide)**|
-
-| Artificial Intelligence (AI) |  |
-| ----------| --------------- | 
+| | |
+| **Artificial Intelligence (AI)** |  |
+|| | 
 |**[Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)**|**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|
 |**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|**[MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide)**|
 |**[C/C++ Guide](https://github.com/mikeroyal/CPP-Guide)**|**[Java Guide](https://github.com/mikeroyal/Java-Guide)**|
 |**[R Guide](https://github.com/mikeroyal/R-Guide)**|**[Julia Guide](https://github.com/mikeroyal/Julia_lang-Guide)**|
 |**[Scala Guide](https://github.com/mikeroyal/Scala-Guide)**|**[Haskell Guide](https://github.com/mikeroyal/Haskell-Guide)**|
-
-| Security & Privacy|  |
-| ----------| --------------- | 
+| |  |
+| **Security & Privacy**|  |
+| | | 
 |**[Open Source Security Guide](https://github.com/mikeroyal/Open-Source-Security-Guide)**|**[Differential Privacy Guide](https://github.com/mikeroyal/Differential-Privacy-Guide)**|
-
-| DevOps|  |
-| ----------| --------------- | 
-|**[Windows Subsystem for Linux (WSL) Guide](https://github.com/mikeroyal/WSL-Guide)**|**[Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide)**|
+| | |
+| **DevOps**|  |
+| | | 
+|**[Windows Subsystem for Linux Guide](https://github.com/mikeroyal/WSL-Guide)**|**[Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide)**|
 |**[OpenShift Guide](https://github.com/mikeroyal/OpenShift-Guide)**|**[Ansible Guide](https://github.com/mikeroyal/Ansible-Guide)**|
 |**[Docker Guide](https://github.com/mikeroyal/Docker-Guide)**|**[Agile Development Guide](https://github.com/mikeroyal/Agile-Guide)** |
-
-| Operating Systems|  |
-| ----------| --------------- | 
+| | |
+| **Operating Systems**|  |
+|| | 
 |**[Windows 10 Guide](https://github.com/mikeroyal/Windows-10-Guide)**|**[macOS--iOS--iPadOS Guide](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide)**|
 |**[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**|**[Android Guide](https://github.com/mikeroyal/Android-Guide)**|
 |**[Fuchsia Guide](https://github.com/mikeroyal/Fuchsia-Guide)**|**[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)**|
 |**[Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)**|**[Debian Guide](https://github.com/mikeroyal/Debian-Guide)**|
 |**[Fedora--CentOS Stream--RHEL Guide](https://github.com/mikeroyal/Fedora-Guide)**|**[SUSE Enterprise Linux--openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**|
 |**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**|**[Linux Guide](https://github.com/mikeroyal/Linux-Guide)** |
-
-| Web/Mobile Development|  |
-| :----------:| :---------------: | 
+| | |
+| **Web/Mobile Development**|  |
+|| | 
 |**[Java Guide](https://github.com/mikeroyal/Java-Guide)**|**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|
 |**[Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)**|**[PHP Guide](https://github.com/mikeroyal/PHP-Guide)**|
 |**[C# Guide](https://github.com/mikeroyal/C-Sharp-Guide)**|**[.NET/.NET Core Guide](https://github.com/mikeroyal/.NET-Guide)**|
@@ -86,19 +86,19 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Golang Guide](https://github.com/mikeroyal/Go-Guide)**|**[React Guide](https://github.com/mikeroyal/ReactJS-Guide)**|
 |**[Angular Guide](https://github.com/mikeroyal/Angular-Guide)**|**[VueJS Guide](https://github.com/mikeroyal/VueJS-Guide)**
 |**[Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)**|**[TypeScript Guide](https://github.com/mikeroyal/TypeScript-Guide)**|
-|**[Electron Guide](https://github.com/mikeroyal/Electron-Guide)**|**[jQuery Guide](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#72-jquery)**|
+|**[Electron Guide](https://github.com/mikeroyal/Electron-Guide)**|**[jQuery Guide](https://github.com/mikeroyal/jQuery-Guide)**|
 |**[Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)**|**[Firebase Guide](https://github.com/mikeroyal/Firebase-Guide)**|
 |**[HMTL/CSS Guide](https://github.com/mikeroyal/HMTL-CSS-Guide)**|**[Bootstrap Guide](https://github.com/mikeroyal/Bootstrap-Guide)**|
 |**[Erlang Guide](https://github.com/mikeroyal/Erlang-Guide)**|**[Shopify Guide](https://github.com/mikeroyal/Shopify-Guide)**|
 |**[WordPress Guide](https://github.com/mikeroyal/WordPress-Guide)**|**[Wix Guide](https://github.com/mikeroyal/Wix-Guide)**|
-
-| 3D Graphics|  |
-| ----------| --------------- | 
+|||
+| **3D Graphics**|  |
+|| | 
 |**[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)**|**[3D Graphics & Design Guide](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)**|
 |**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**|
-
-| Audio/Video Content Development|  |
-| ----------| --------------- | 
+| | |
+| **Audio/Video Content Development**|  |
+| | | 
 |**[Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)**|**[Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)**|
 
 **See more Guides below**
@@ -128,7 +128,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |61. [Serverless](https://github.com/mikeroyal/Serverless-Guide)|62. [XML](https://github.com/mikeroyal/XML-Guide)|63. [Verilog/SystemVerilog](https://github.com/mikeroyal/Verilog-SystemVerilog-Guide)|
 |64. [Quantum Computing](https://github.com/mikeroyal/Quantum-Computing-Guide)|65. [Data Structures & Algorithms](https://github.com/mikeroyal/Data-Structures-and-Algorithms)|66. [Differential Privacy](https://github.com/mikeroyal/Differential-Privacy-Guide)|
 |67. [Raspberry Pi](https://github.com/mikeroyal/Raspberry-Pi-Guide)|68. [Arduino](https://github.com/mikeroyal/Arduino-Guide)|69. [FPGA](https://github.com/mikeroyal/FPGA-Guide)|
-|70. [Wayland](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#70-wayland)|71. [Electron](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#71-electron)|72. [jQuery](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#72-jquery)|
+|70. [Wayland](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#70-wayland)|71. [Electron](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#71-electron)|72. [jQuery](https://github.com/mikeroyal/jQuery-Guide)|
 |73. [FinOps](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#73-finops)|74. [Telco 5G](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#74-telco-5g)|75. [Ubuntu](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)|
 
 ### Certifications
