@@ -40,7 +40,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Salesforce Guide](https://github.com/mikeroyal/Salesforce-Guide)**|**[Adobe Experience Cloud Guide](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide)**|
 |**[DigitalOcean Guide](https://github.com/mikeroyal/DigitalOcean-Guide)**|**[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**|
 | **Hardware**| **--------------**|
-|**[ARM (Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
+|**[ARM(Advanced RISC Machines) Guide](https://github.com/mikeroyal/ARM-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
 |**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
 |**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**| **[LabVIEW Guide](https://github.com/mikeroyal/LabVIEW-Guide)**|
 |**[Robotics Guide](https://github.com/mikeroyal/Robotics-guide)**|**[FPGA Guide](https://github.com/mikeroyal/FPGA-Guide)**|
@@ -62,7 +62,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**|**[Android Guide](https://github.com/mikeroyal/Android-Guide)**|
 |**[Fuchsia Guide](https://github.com/mikeroyal/Fuchsia-Guide)**|**[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)**|
 |**[Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)**|**[Debian Guide](https://github.com/mikeroyal/Debian-Guide)**|
-|**[Fedora--CentOS Stream--RHEL Guide](https://github.com/mikeroyal/Fedora-Guide)**|**[SUSE Enterprise Linux--openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**|
+|**[Fedora/CentOS Stream/RHEL Guide](https://github.com/mikeroyal/Fedora-Guide)**|**[SUSE Enterprise Linux/openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**|
 |**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**|**[Linux Guide](https://github.com/mikeroyal/Linux-Guide)** |
 | **Web/Mobile Development**| **--------------** |
 |**[Java Guide](https://github.com/mikeroyal/Java-Guide)**|**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|
