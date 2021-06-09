@@ -101,7 +101,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | 10. [Machine Learning](https://github.com/mikeroyal/Machine-Learning-Guide)|30. [CUDA](https://github.com/mikeroyal/CUDA-Guide)| 50. [PHP](https://github.com/mikeroyal/PHP-Guide)
 | 11. [Python Guide](https://github.com/mikeroyal/Python-Guide)|31. [Julia](https://github.com/mikeroyal/Julia_lang-Guide)|51. [Robotics](https://github.com/mikeroyal/Robotics-guide)|
 | 12. [SQL/NoSQL DB](https://github.com/mikeroyal/SQL-NoSQL-Guide)| 32. [R](https://github.com/mikeroyal/R-Guide)|52. [WSL](https://github.com/mikeroyal/WSL-Guide) |
-| 13. [HMTL/CSS](https://github.com/mikeroyal/HMTL-CSS-Guide)| 33. [MATLAB](https://github.com/mikeroyal/MATLAB-Guide)|53. [3D Graphics & Design](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)|
+| 13. [HMTL/CSS](https://github.com/mikeroyal/HMTL-CSS-Guide)| 33. [MATLAB](https://github.com/mikeroyal/MATLAB-Guide)|53. [3D Graphics](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)|
 | 14. [React](https://github.com/mikeroyal/ReactJS-Guide)  |34. [Bash/Shell/PowerShell](https://github.com/mikeroyal/Bash-Shell-Powershell-Guide) |54. [Game Development](https://github.com/mikeroyal/Game-Development-Guide)| 
 | 15. [Angular](https://github.com/mikeroyal/Angular-Guide) | 35. [C#](https://github.com/mikeroyal/C-Sharp-Guide)|55. [Blockchain](https://github.com/mikeroyal/Blockchain-Guide)|
 | 16. [VueJS](https://github.com/mikeroyal/VueJS-Guide) | 36. [F#](https://github.com/mikeroyal/F-Sharp-Guide)|56. [Working Remote](https://github.com/mikeroyal/Working-Remote-Guide)|
@@ -110,7 +110,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | 19. [Rust](https://github.com/mikeroyal/Rust_lang-Guide)| 39. [Flutter](https://github.com/mikeroyal/Flutter-Guide)|59. [Agile Development](https://github.com/mikeroyal/Agile-Guide)|
 |20. [Kotlin](https://github.com/mikeroyal/Kotlin-Guide)|40. [Firebase](https://github.com/mikeroyal/Firebase-Guide)|60. [RISC-V](https://github.com/mikeroyal/RISC-V-Guide)
 |61. [Serverless](https://github.com/mikeroyal/Serverless-Guide)|62. [XML](https://github.com/mikeroyal/XML-Guide)|63. [Verilog/SystemVerilog](https://github.com/mikeroyal/Verilog-SystemVerilog-Guide)|
-|64. [Quantum Computing](https://github.com/mikeroyal/Quantum-Computing-Guide)|65. [Data Structures & Algorithms](https://github.com/mikeroyal/Data-Structures-and-Algorithms)|66. [Differential Privacy](https://github.com/mikeroyal/Differential-Privacy-Guide)|
+|64. [Quantum Compute](https://github.com/mikeroyal/Quantum-Computing-Guide)|65. [Algorithms](https://github.com/mikeroyal/Data-Structures-and-Algorithms)|66. [Differential Privacy](https://github.com/mikeroyal/Differential-Privacy-Guide)|
 |67. [Raspberry Pi](https://github.com/mikeroyal/Raspberry-Pi-Guide)|68. [Arduino](https://github.com/mikeroyal/Arduino-Guide)|69. [FPGA](https://github.com/mikeroyal/FPGA-Guide)|
 |70. [Wayland](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#70-wayland)|71. [Electron](https://github.com/mikeroyal/Electron-Guide) |72. [jQuery](https://github.com/mikeroyal/jQuery-Guide)|
 |73. [FinOps](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#73-finops)|74. [Telco 5G](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#74-telco-5g)|75. [Ubuntu](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)|
