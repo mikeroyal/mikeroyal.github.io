@@ -43,8 +43,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
 |**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**| **[LabVIEW Guide](https://github.com/mikeroyal/LabVIEW-Guide)**|
 |**[Robotics Guide](https://github.com/mikeroyal/Robotics-guide)**|**[FPGA Guide](https://github.com/mikeroyal/FPGA-Guide)**|
+|**[LiDAR Guide](https://github.com/mikeroyal/LiDAR-Guide)**|**[Quantum Computing Guide](https://github.com/mikeroyal/Quantum-Computing-Guide)**|
 |**[C/C++ Guide](https://github.com/mikeroyal/CPP-Guide)**|**[Rust Guide](https://github.com/mikeroyal/Rust_lang-Guide)**|
-|**[LiDAR Guide](https://github.com/mikeroyal/LiDAR-Guide)**|**[Assembly Guide](https://github.com/mikeroyal/Assembly-Guide)**|
 | **Artificial Intelligence (AI)** | **--------------** |
 |**[Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)**|**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|
 |**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|**[MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide)**|
