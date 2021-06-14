@@ -44,6 +44,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**| **[LabVIEW Guide](https://github.com/mikeroyal/LabVIEW-Guide)**|
 |**[Robotics Guide](https://github.com/mikeroyal/Robotics-guide)**|**[FPGA Guide](https://github.com/mikeroyal/FPGA-Guide)**|
 |**[C/C++ Guide](https://github.com/mikeroyal/CPP-Guide)**|**[Rust Guide](https://github.com/mikeroyal/Rust_lang-Guide)**|
+|**[LiDAR Guide](https://github.com/mikeroyal/LiDAR-Guide)**|**[Assembly Guide](https://github.com/mikeroyal/Assembly-Guide)**|
 | **Artificial Intelligence (AI)** | **--------------** |
 |**[Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)**|**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|
 |**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|**[MATLAB Guide](https://github.com/mikeroyal/MATLAB-Guide)**|
@@ -56,6 +57,9 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Windows Subsystem for Linux Guide](https://github.com/mikeroyal/WSL-Guide)**|**[Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide)**|
 |**[OpenShift Guide](https://github.com/mikeroyal/OpenShift-Guide)**|**[Ansible Guide](https://github.com/mikeroyal/Ansible-Guide)**|
 |**[Docker Guide](https://github.com/mikeroyal/Docker-Guide)**|**[Agile Development Guide](https://github.com/mikeroyal/Agile-Guide)** |
+|**[Puppet Guide](https://github.com/mikeroyal/Puppet-Guide)**|**[Chef Guide](https://github.com/mikeroyal/Chef-Guide)**|
+|**[Bash/PowerShell Guide](https://github.com/mikeroyal/Bash-Powershell-Guide)**|**[Terraform Guide](https://github.com/mikeroyal/Terraform-Guide)**|
+|**[Groovy Guide](https://github.com/mikeroyal/Groovy-Guide)**|**[Clojure Guide](https://github.com/mikeroyal/Clojure-Guide)**|
 | **Operating Systems**| **--------------** |
 |**[Windows 10 Guide](https://github.com/mikeroyal/Windows-10-Guide)**|**[macOS--iOS--iPadOS Guide](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide)**|
 |**[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**|**[Android Guide](https://github.com/mikeroyal/Android-Guide)**|
@@ -82,6 +86,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | **3D Graphics** |**--------------** | 
 |**[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)**|**[3D Graphics & Design Guide](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)**|
 |**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**|
+|**[Lua Guide](https://github.com/mikeroyal/Lua-Guide)**|**[C/C++ Guide](https://github.com/mikeroyal/CPP-Guide)**|
 | **Audio/Video Content Development**| **--------------** |
 |**[Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)**|**[Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)**|
 
@@ -97,12 +102,12 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | 6. [Cloud-Native](https://github.com/mikeroyal/Cloud-Native-Guide)| 26. [Scala](https://github.com/mikeroyal/Scala-Guide) | 46. [Erlang](https://github.com/mikeroyal/Erlang-Guide)|
 | 7. [Kubernetes](https://github.com/mikeroyal/Kubernetes-Guide) | 27. [Groovy](https://github.com/mikeroyal/Groovy-Guide)  | 47. [Lua](https://github.com/mikeroyal/Lua-Guide)|
 | 8. [ARM](https://github.com/mikeroyal/ARM-Guide) | 28. [Clojure](https://github.com/mikeroyal/Clojure-Guide)| 48. [Vala](https://github.com/mikeroyal/Vala-Guide)|
-| 9. [Assembly(x86)](https://github.com/mikeroyal/Assembly-Guide)| 29. [WebAssembly](https://github.com/mikeroyal/WebAssembly-Guide)|49. [Haskell](https://github.com/mikeroyal/Haskell-Guide)|
+| 9. [Assembly](https://github.com/mikeroyal/Assembly-Guide)| 29. [WebAssembly](https://github.com/mikeroyal/WebAssembly-Guide)|49. [Haskell](https://github.com/mikeroyal/Haskell-Guide)|
 | 10. [Machine Learning](https://github.com/mikeroyal/Machine-Learning-Guide)|30. [CUDA](https://github.com/mikeroyal/CUDA-Guide)| 50. [PHP](https://github.com/mikeroyal/PHP-Guide)
 | 11. [Python Guide](https://github.com/mikeroyal/Python-Guide)|31. [Julia](https://github.com/mikeroyal/Julia_lang-Guide)|51. [Robotics](https://github.com/mikeroyal/Robotics-guide)|
 | 12. [SQL/NoSQL DB](https://github.com/mikeroyal/SQL-NoSQL-Guide)| 32. [R](https://github.com/mikeroyal/R-Guide)|52. [WSL](https://github.com/mikeroyal/WSL-Guide) |
 | 13. [HMTL/CSS](https://github.com/mikeroyal/HMTL-CSS-Guide)| 33. [MATLAB](https://github.com/mikeroyal/MATLAB-Guide)|53. [3D Graphics](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)|
-| 14. [React](https://github.com/mikeroyal/ReactJS-Guide)  |34. [Bash/Shell/PowerShell](https://github.com/mikeroyal/Bash-Shell-Powershell-Guide) |54. [Game Development](https://github.com/mikeroyal/Game-Development-Guide)| 
+| 14. [React](https://github.com/mikeroyal/ReactJS-Guide)  |34. [Bash/PowerShell](https://github.com/mikeroyal/Bash-Powershell-Guide) |54. [Game Development](https://github.com/mikeroyal/Game-Development-Guide)| 
 | 15. [Angular](https://github.com/mikeroyal/Angular-Guide) | 35. [C#](https://github.com/mikeroyal/C-Sharp-Guide)|55. [Blockchain](https://github.com/mikeroyal/Blockchain-Guide)|
 | 16. [VueJS](https://github.com/mikeroyal/VueJS-Guide) | 36. [F#](https://github.com/mikeroyal/F-Sharp-Guide)|56. [Working Remote](https://github.com/mikeroyal/Working-Remote-Guide)|
 | 17. [Node.js](https://github.com/mikeroyal/Node.js-Guide)| 37. [.NET/.NET Core](https://github.com/mikeroyal/.NET-Guide)|57. [Audio & Video Editing](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)|
