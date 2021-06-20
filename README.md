@@ -14,19 +14,23 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 [![telegram](https://user-images.githubusercontent.com/45159366/114456871-3a440980-9b92-11eb-9141-63c3add3fea7.png)]()
 [![reddit](https://user-images.githubusercontent.com/45159366/114456858-37491900-9b92-11eb-9420-cb749e122dd8.png)]()
 [![slack](https://user-images.githubusercontent.com/45159366/114456875-3b753680-9b92-11eb-86e4-202149551fad.png)]()
+[![podcast1](https://user-images.githubusercontent.com/45159366/122689267-42de3f00-d1d6-11eb-8a40-2701a27329fe.png)]()
 [![Linkedin](https://user-images.githubusercontent.com/45159366/85327989-beeb5d00-b484-11ea-9996-d6042a365e34.png)](https://www.linkedin.com/in/michael-royal-b923b4134/)
 [![Resume](https://user-images.githubusercontent.com/45159366/85609897-5e3a5c80-b60b-11ea-94d4-751c7385e80a.png)](https://github.com/mikeroyal/mikeroyal.github.io/files/6612189/Michael_Royal_Resume.pdf)
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122689293-67d2b200-d1d6-11eb-8a39-8080f9bb6f86.gif">
+ </p>
 
-### Links to Project Profiles & Contributions
+| **Links to Project Profiles & Contributions**|  |
+| :--------------------| :--------------------| 
+|**[Project Profiles & Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4875593/Links.to.Project.Contributions.pdf)**|**[Developer Handook v1.0](https://github.com/mikeroyal/Developer-Handbook)**|
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/86542054-ed2a5d00-bec6-11ea-875e-9909383fe64c.png">
  </p>
 
-**[Project Profiles & Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4875593/Links.to.Project.Contributions.pdf)**
 
-**[Developer Handook v1.0](https://github.com/mikeroyal/Developer-Handbook)**
 
 | **Development Guides**|  |
 | :--------------------| :--------------------| 
@@ -93,7 +97,6 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)**|**[Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)**|
 
 ### Certifications
-
 
 | Currently working on|  |
 | :----------:| :---------------: | 
