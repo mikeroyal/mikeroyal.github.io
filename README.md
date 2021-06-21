@@ -17,15 +17,19 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 [![Linkedin](https://user-images.githubusercontent.com/45159366/85327989-beeb5d00-b484-11ea-9996-d6042a365e34.png)](https://www.linkedin.com/in/michael-royal-b923b4134/)
 [![Resume](https://user-images.githubusercontent.com/45159366/85609897-5e3a5c80-b60b-11ea-94d4-751c7385e80a.png)](https://github.com/mikeroyal/mikeroyal.github.io/files/6612189/Michael_Royal_Resume.pdf)
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122827012-b3e62b00-d298-11eb-9382-d5e0ff96cc3c.gif">
+ </p>
+
 ### Links to Project Profiles & Contributions
 
 **[Project Profiles & Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4875593/Links.to.Project.Contributions.pdf)**
 
-**[Developer Handook v1.0](https://github.com/mikeroyal/Developer-Handbook)**
+**[Developer Handbook v1.0](https://github.com/mikeroyal/Developer-Handbook)**
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/86542054-ed2a5d00-bec6-11ea-875e-9909383fe64c.png">
- </p>
+
+ <img src="https://user-images.githubusercontent.com/45159366/122827819-bdbc5e00-d299-11eb-962a-a1b115b7faad.png">
+
 
 
 | **Development Guides**|  |
