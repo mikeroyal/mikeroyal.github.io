@@ -25,11 +25,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Project Profiles & Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4875593/Links.to.Project.Contributions.pdf)**
 
-**[Developer Handbook v1.0](https://github.com/mikeroyal/Developer-Handbook)**
-
-
  <img src="https://user-images.githubusercontent.com/45159366/122827819-bdbc5e00-d299-11eb-962a-a1b115b7faad.png">
-
 
 
 | **Development Guides**|  |
@@ -81,12 +77,12 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[SQL/NoSQL DB Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide)**|**[WebAssembly Guide](https://github.com/mikeroyal/WebAssembly-Guide)**|
 |**[GraphQL Guide](https://github.com/mikeroyal/GraphQL-Guide)**| **[CodeQL Guide](https://github.com/mikeroyal/CodeQL-Guide)**|
 |**[Golang Guide](https://github.com/mikeroyal/Go-Guide)**|**[React Guide](https://github.com/mikeroyal/ReactJS-Guide)**|
-|**[Angular Guide](https://github.com/mikeroyal/Angular-Guide)**|**[VueJS Guide](https://github.com/mikeroyal/VueJS-Guide)**
+|**[Angular Guide](https://github.com/mikeroyal/Angular-Guide)**|**[Vue.js Guide](https://github.com/mikeroyal/VueJS-Guide)**
 |**[Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)**|**[TypeScript Guide](https://github.com/mikeroyal/TypeScript-Guide)**|
 |**[Electron Guide](https://github.com/mikeroyal/Electron-Guide)**|**[jQuery Guide](https://github.com/mikeroyal/jQuery-Guide)**|
 |**[Flutter Guide](https://github.com/mikeroyal/Flutter-Guide)**|**[Firebase Guide](https://github.com/mikeroyal/Firebase-Guide)**|
 |**[Dart Guide](https://github.com/mikeroyal/Dart-Guide)**|**[XML Guide](https://github.com/mikeroyal/XML-Guide)**|
-|**[HMTL/CSS Guide](https://github.com/mikeroyal/HMTL-CSS-Guide)**|**[Bootstrap Guide](https://github.com/mikeroyal/Bootstrap-Guide)**|
+|**[HTML/CSS Guide](https://github.com/mikeroyal/HTML-CSS-Guide)**|**[Bootstrap Guide](https://github.com/mikeroyal/Bootstrap-Guide)**|
 |**[Erlang Guide](https://github.com/mikeroyal/Erlang-Guide)**|**[Shopify Guide](https://github.com/mikeroyal/Shopify-Guide)**|
 |**[WordPress Guide](https://github.com/mikeroyal/WordPress-Guide)**|**[Wix Guide](https://github.com/mikeroyal/Wix-Guide)**|
 | **3D Graphics** |**--------------** | 
