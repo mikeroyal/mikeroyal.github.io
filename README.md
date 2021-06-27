@@ -38,6 +38,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Cisco Guide](https://github.com/mikeroyal/Cisco-Guide)**| **[HPE Cloud Guide](https://github.com/mikeroyal/HPE-Guide)**|
 |**[Salesforce Guide](https://github.com/mikeroyal/Salesforce-Guide)**|**[Adobe Experience Cloud Guide](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide)**|
 |**[DigitalOcean Guide](https://github.com/mikeroyal/DigitalOcean-Guide)**|**[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**|
+|**[Telco 5G Guide](https://github.com/mikeroyal/Telo-5G-Guide)**|**[Serverless Guide](https://github.com/mikeroyal/Serverless-Guide)**|
 | **Hardware**| **--------------**|
 |**[ARM64 Guide](https://github.com/mikeroyal/ARM-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
 |**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
@@ -54,6 +55,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Scala Guide](https://github.com/mikeroyal/Scala-Guide)**|**[Haskell Guide](https://github.com/mikeroyal/Haskell-Guide)**|
 | **Security & Privacy**| **--------------** |
 |**[Open Source Security Guide](https://github.com/mikeroyal/Open-Source-Security-Guide)**|**[Differential Privacy Guide](https://github.com/mikeroyal/Differential-Privacy-Guide)**|
+|**[Networking Guide](https://github.com/mikeroyal/Networking-Guide)**|**[Blockchain Guide](https://github.com/mikeroyal/Blockchain-Guide)**|
 | **DevOps**| **--------------** |
 |**[Windows Subsystem for Linux Guide](https://github.com/mikeroyal/WSL-Guide)**|**[Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide)**|
 |**[OpenShift Guide](https://github.com/mikeroyal/OpenShift-Guide)**|**[Ansible Guide](https://github.com/mikeroyal/Ansible-Guide)**|
@@ -74,9 +76,10 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[C# Guide](https://github.com/mikeroyal/C-Sharp-Guide)**|**[.NET/.NET Core Guide](https://github.com/mikeroyal/.NET-Guide)**|
 |**[F# Guide](https://github.com/mikeroyal/F-Sharp-Guide)**|**[Elixir Guide](https://github.com/mikeroyal/Elixir-Guide)**|
 |**[Swift Guide](https://github.com/mikeroyal/Swift-Guide)**|**[Kotlin Guide](https://github.com/mikeroyal/Kotlin-Guide)**|
+|**[Golang Guide](https://github.com/mikeroyal/Go-Guide)**|**[Objective-C Guide](https://github.com/mikeroyal/Objective-C-Guide)**|
 |**[SQL/NoSQL DB Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide)**|**[WebAssembly Guide](https://github.com/mikeroyal/WebAssembly-Guide)**|
 |**[GraphQL Guide](https://github.com/mikeroyal/GraphQL-Guide)**| **[CodeQL Guide](https://github.com/mikeroyal/CodeQL-Guide)**|
-|**[Golang Guide](https://github.com/mikeroyal/Go-Guide)**|**[React Guide](https://github.com/mikeroyal/ReactJS-Guide)**|
+**[React Guide](https://github.com/mikeroyal/ReactJS-Guide)**|**[Cordova Guide](https://github.com/mikeroyal/Cordova-Guide)**|
 |**[Angular Guide](https://github.com/mikeroyal/Angular-Guide)**|**[Vue.js Guide](https://github.com/mikeroyal/VueJS-Guide)**
 |**[Node.js Guide](https://github.com/mikeroyal/Node.js-Guide)**|**[TypeScript Guide](https://github.com/mikeroyal/TypeScript-Guide)**|
 |**[Electron Guide](https://github.com/mikeroyal/Electron-Guide)**|**[jQuery Guide](https://github.com/mikeroyal/jQuery-Guide)**|
@@ -91,6 +94,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**|**[Lua Guide](https://github.com/mikeroyal/Lua-Guide)**|
 | **Audio/Video Content Development**| **--------------** |
 |**[Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)**|**[Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)**|
+| **Remote Workplace** |**--------------** | 
+|**[Working Remote Guide](https://github.com/mikeroyal/Working-Remote-Guide)**||
 
 ### Certifications
 
