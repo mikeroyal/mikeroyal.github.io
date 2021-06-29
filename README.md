@@ -53,6 +53,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[C/C++ Guide](https://github.com/mikeroyal/CPP-Guide)**|**[Java Guide](https://github.com/mikeroyal/Java-Guide)**|
 |**[R Guide](https://github.com/mikeroyal/R-Guide)**|**[Julia Guide](https://github.com/mikeroyal/Julia_lang-Guide)**|
 |**[Scala Guide](https://github.com/mikeroyal/Scala-Guide)**|**[Haskell Guide](https://github.com/mikeroyal/Haskell-Guide)**|
+|**[Algorithms Guide](https://github.com/mikeroyal/Algorithms-and-Data-Structures)**||
 | **Security & Privacy**| **--------------** |
 |**[Open Source Security Guide](https://github.com/mikeroyal/Open-Source-Security-Guide)**|**[Differential Privacy Guide](https://github.com/mikeroyal/Differential-Privacy-Guide)**|
 |**[Networking Guide](https://github.com/mikeroyal/Networking-Guide)**|**[Blockchain Guide](https://github.com/mikeroyal/Blockchain-Guide)**|
