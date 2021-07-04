@@ -25,7 +25,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 **[Project Profiles & Contributions.pdf](https://github.com/mikeroyal/mikeroyal.github.io/files/4875593/Links.to.Project.Contributions.pdf)**
 
- <img src="https://user-images.githubusercontent.com/45159366/122827819-bdbc5e00-d299-11eb-962a-a1b115b7faad.png">
+ <img src="https://user-images.githubusercontent.com/45159366/124399222-f2cfa400-dcce-11eb-86a7-9c4ee9c5e6db.png">
 
 
 | **Development Guides**|  |
@@ -53,11 +53,12 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[C/C++ Guide](https://github.com/mikeroyal/CPP-Guide)**|**[Java Guide](https://github.com/mikeroyal/Java-Guide)**|
 |**[R Guide](https://github.com/mikeroyal/R-Guide)**|**[Julia Guide](https://github.com/mikeroyal/Julia_lang-Guide)**|
 |**[Scala Guide](https://github.com/mikeroyal/Scala-Guide)**|**[Haskell Guide](https://github.com/mikeroyal/Haskell-Guide)**|
-|**[Algorithms Guide](https://github.com/mikeroyal/Algorithms-and-Data-Structures)**||
+|**[Algorithms Guide](https://github.com/mikeroyal/Algorithms-and-Data-Structures)**|**[Linear Algebra Guide](https://github.com/mikeroyal/Linear-Algebra-Guide)**|
 | **Security & Privacy**| **--------------** |
 |**[Open Source Security Guide](https://github.com/mikeroyal/Open-Source-Security-Guide)**|**[Differential Privacy Guide](https://github.com/mikeroyal/Differential-Privacy-Guide)**|
 |**[Networking Guide](https://github.com/mikeroyal/Networking-Guide)**|**[Blockchain Guide](https://github.com/mikeroyal/Blockchain-Guide)**|
 | **DevOps**| **--------------** |
+|**[DevOps Tools Guide](https://github.com/mikeroyal/DevOps-Tools-Guide)**|**[Grafana Guide](https://github.com/mikeroyal/Grafana-Guide)**|
 |**[Windows Subsystem for Linux Guide](https://github.com/mikeroyal/WSL-Guide)**|**[Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide)**|
 |**[OpenShift Guide](https://github.com/mikeroyal/OpenShift-Guide)**|**[Ansible Guide](https://github.com/mikeroyal/Ansible-Guide)**|
 |**[Docker Guide](https://github.com/mikeroyal/Docker-Guide)**|**[Agile Development Guide](https://github.com/mikeroyal/Agile-Guide)** |
@@ -93,6 +94,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Autodesk Guide](https://github.com/mikeroyal/Autodesk-Guide)**|**[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)**|
 |**[3D Graphics & Design Guide](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)**|**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|
 |**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**|**[Lua Guide](https://github.com/mikeroyal/Lua-Guide)**|
+|**[Linear Algebra Guide](https://github.com/mikeroyal/Linear-Algebra-Guide)**|**[Algorithms Guide](https://github.com/mikeroyal/Algorithms-and-Data-Structures)**|
 | **Audio/Video Content Development**| **--------------** |
 |**[Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)**|**[Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)**|
 | **Remote Workplace** |**--------------** | 
