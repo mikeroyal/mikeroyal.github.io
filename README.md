@@ -28,7 +28,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
  <img src="https://user-images.githubusercontent.com/45159366/124399222-f2cfa400-dcce-11eb-86a7-9c4ee9c5e6db.png">
 
 
-| **Development Guides**|  |
+| **User/Developer Guides**|  |
 | :--------------------| :--------------------| 
 | **Cloud**|**--------------** |
 |**[Amazon Web Services (AWS) Guide](https://github.com/mikeroyal/AWS-Guide)**|**[Microsoft Azure Guide](https://github.com/mikeroyal/Azure-Guide)**|
@@ -71,6 +71,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Fuchsia Guide](https://github.com/mikeroyal/Fuchsia-Guide)**|**[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)**|
 |**[Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)**|**[Debian Guide](https://github.com/mikeroyal/Debian-Guide)**|
 |**[Fedora-CentOS Stream-RHEL Guide](https://github.com/mikeroyal/Fedora-Guide)**|**[SUSE Enterprise Linux-openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**|
+|**[Linux Mint Guide](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#81-Linux-Mint)**|**[elementary OS Guide](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#82-elementary-OS)**|
 |**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**|**[Linux Guide](https://github.com/mikeroyal/Linux-Guide)** |
 | **Web/Mobile Development**| **--------------** |
 |**[Java Guide](https://github.com/mikeroyal/Java-Guide)**|**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|
@@ -104,8 +105,9 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 
 | Currently working on|  |
 | :----------:| :---------------: | 
-|![Azure](https://user-images.githubusercontent.com/45159366/100673067-af1b5300-3317-11eb-9f63-5839e9242f10.png)| [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/learn/certifications/azure-developer)|
-|![AWS](https://user-images.githubusercontent.com/45159366/100673070-b04c8000-3317-11eb-90bc-eded03b6e272.png) |[AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)|
-|![GCP](https://user-images.githubusercontent.com/45159366/100673076-b17dad00-3317-11eb-8fda-ec5adcd7df29.png)| [Google Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)|
-|![Red Hat](https://user-images.githubusercontent.com/45159366/100673079-b2aeda00-3317-11eb-8a14-ddec35c47254.png)| [Red Hat Certified Engineer](https://www.redhat.com/en/services/certification/rhce)|
-|![CISSP](https://user-images.githubusercontent.com/45159366/101218002-29f5ae00-3637-11eb-8e00-d2047ca8dca8.png)| [CISSP(Certified Information Systems Security Professional)](https://www.isc2.org/Certifications/CISSP)|
+|![Azure](https://user-images.githubusercontent.com/45159366/100673067-af1b5300-3317-11eb-9f63-5839e9242f10.png)| **[Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/learn/certifications/azure-developer)**|
+|![AWS](https://user-images.githubusercontent.com/45159366/100673070-b04c8000-3317-11eb-90bc-eded03b6e272.png) |**[AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)**|
+|![GCP](https://user-images.githubusercontent.com/45159366/100673076-b17dad00-3317-11eb-8fda-ec5adcd7df29.png)| **[Google Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)**|
+|![Red Hat](https://user-images.githubusercontent.com/45159366/100673079-b2aeda00-3317-11eb-8a14-ddec35c47254.png)| **[Red Hat Certified Engineer](https://www.redhat.com/en/services/certification/rhce)**|
+|![HashiCorp](https://user-images.githubusercontent.com/45159366/124515812-3391f080-dd95-11eb-9d57-1f651b375d1a.png)|**[Hashicorp Terraform Associate](https://www.hashicorp.com/certification/terraform-associate)** |
+|![CISSP](https://user-images.githubusercontent.com/45159366/101218002-29f5ae00-3637-11eb-8e00-d2047ca8dca8.png)| **[CISSP(Certified Information Systems Security Professional)](https://www.isc2.org/Certifications/CISSP)**|
