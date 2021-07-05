@@ -109,5 +109,5 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |![AWS](https://user-images.githubusercontent.com/45159366/100673070-b04c8000-3317-11eb-90bc-eded03b6e272.png) |[AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)|
 |![GCP](https://user-images.githubusercontent.com/45159366/100673076-b17dad00-3317-11eb-8fda-ec5adcd7df29.png)| [Google Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)|
 |![Red Hat](https://user-images.githubusercontent.com/45159366/100673079-b2aeda00-3317-11eb-8a14-ddec35c47254.png)| [Red Hat Certified Engineer](https://www.redhat.com/en/services/certification/rhce)|
-|![HashiCorp](https://user-images.githubusercontent.com/45159366/124515812-3391f080-dd95-11eb-9d57-1f651b375d1a.png)|[Hashicorp Terraform Associate](https://www.hashicorp.com/certification/terraform-associate) |
+|![HashiCorp](https://user-images.githubusercontent.com/45159366/124515812-3391f080-dd95-11eb-9d57-1f651b375d1a.png)|[HashiCorp Terraform Associate](https://www.hashicorp.com/certification/terraform-associate) |
 |![CISSP](https://user-images.githubusercontent.com/45159366/101218002-29f5ae00-3637-11eb-8e00-d2047ca8dca8.png)| [CISSP(Certified Information Systems Security Professional)](https://www.isc2.org/Certifications/CISSP)|
