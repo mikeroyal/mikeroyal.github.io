@@ -66,11 +66,13 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Bash/PowerShell Guide](https://github.com/mikeroyal/Bash-Powershell-Guide)**|**[Terraform Guide](https://github.com/mikeroyal/Terraform-Guide)**|
 |**[Groovy Guide](https://github.com/mikeroyal/Groovy-Guide)**|**[Clojure Guide](https://github.com/mikeroyal/Clojure-Guide)**|
 | **Operating Systems**| **--------------** |
+|**[Windows 11 Guide](https://github.com/mikeroyal/Windows-11-Guide)**|**--------------**|
 |**[Windows 10 Guide](https://github.com/mikeroyal/Windows-10-Guide)**|**[macOS--iOS--iPadOS Guide](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide)**|
 |**[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**|**[Android Guide](https://github.com/mikeroyal/Android-Guide)**|
 |**[Fuchsia Guide](https://github.com/mikeroyal/Fuchsia-Guide)**|**[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)**|
 |**[Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)**|**[Debian Guide](https://github.com/mikeroyal/Debian-Guide)**|
 |**[Fedora-CentOS Stream-RHEL Guide](https://github.com/mikeroyal/Fedora-Guide)**|**[SUSE Enterprise Linux-openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**|
+|**[AlmaLinux Enterprise Guide](https://github.com/mikeroyal/AlmaLinux-Guide)**|**[Rocky Linux Enterprise Guide](https://github.com/mikeroyal/Rocky-Linux-Guide)**|
 |**[Linux Mint Guide](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#81-Linux-Mint)**|**[elementary OS Guide](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#82-elementary-OS)**|
 |**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**|**[Linux Guide](https://github.com/mikeroyal/Linux-Guide)** |
 | **Web/Mobile Development**| **--------------** |
