@@ -37,8 +37,9 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[OpenStack Guide](https://github.com/mikeroyal/OpenStack-Guide)**| **[VMware Guide](https://github.com/mikeroyal/VMware-Guide)**|
 |**[Cisco Guide](https://github.com/mikeroyal/Cisco-Guide)**| **[HPE Cloud Guide](https://github.com/mikeroyal/HPE-Guide)**|
 |**[Salesforce Guide](https://github.com/mikeroyal/Salesforce-Guide)**|**[Adobe Experience Cloud Guide](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide)**|
-|**[DigitalOcean Guide](https://github.com/mikeroyal/DigitalOcean-Guide)**|**[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**|
+|**[HashiCorp Cloud Platform Guide](https://github.com/mikeroyal/HashiCorp-Cloud-Guide)**|**[DigitalOcean Guide](https://github.com/mikeroyal/DigitalOcean-Guide)**|
 |**[Telco 5G Guide](https://github.com/mikeroyal/Telo-5G-Guide)**|**[Serverless Guide](https://github.com/mikeroyal/Serverless-Guide)**|
+|**[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**||
 | **Hardware**| **--------------**|
 |**[ARM64 Guide](https://github.com/mikeroyal/ARM-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
 |**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
@@ -66,15 +67,15 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Bash/PowerShell Guide](https://github.com/mikeroyal/Bash-Powershell-Guide)**|**[Terraform Guide](https://github.com/mikeroyal/Terraform-Guide)**|
 |**[Groovy Guide](https://github.com/mikeroyal/Groovy-Guide)**|**[Clojure Guide](https://github.com/mikeroyal/Clojure-Guide)**|
 | **Operating Systems**| **--------------** |
-|**[Windows 11 Guide](https://github.com/mikeroyal/Windows-11-Guide)**|**--------------**|
-|**[Windows 10 Guide](https://github.com/mikeroyal/Windows-10-Guide)**|**[macOS--iOS--iPadOS Guide](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide)**|
-|**[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**|**[Android Guide](https://github.com/mikeroyal/Android-Guide)**|
-|**[Fuchsia Guide](https://github.com/mikeroyal/Fuchsia-Guide)**|**[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)**|
+|**[Windows 11 Guide](https://github.com/mikeroyal/Windows-11-Guide)**|**[macOS--iOS--iPadOS Guide](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide)**|
+|**[Windows 10 Guide](https://github.com/mikeroyal/Windows-10-Guide)**|**[Chrome OS Guide](https://github.com/mikeroyal/Chrome-OS-Guide)**|
+|**[Android Guide](https://github.com/mikeroyal/Android-Guide)**|**[Fuchsia Guide](https://github.com/mikeroyal/Fuchsia-Guide)**|
+|**[Linux Guide](https://github.com/mikeroyal/Linux-Guide)**|**[Ubuntu Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide)**|
 |**[Pop!_OS Guide](https://github.com/mikeroyal/Pop_OS-Guide)**|**[Debian Guide](https://github.com/mikeroyal/Debian-Guide)**|
 |**[Fedora-CentOS Stream-RHEL Guide](https://github.com/mikeroyal/Fedora-Guide)**|**[SUSE Enterprise Linux-openSUSE Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide)**|
 |**[AlmaLinux Enterprise Guide](https://github.com/mikeroyal/AlmaLinux-Guide)**|**[Rocky Linux Enterprise Guide](https://github.com/mikeroyal/Rocky-Linux-Guide)**|
 |**[Linux Mint Guide](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#81-Linux-Mint)**|**[elementary OS Guide](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#82-elementary-OS)**|
-|**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**|**[Linux Guide](https://github.com/mikeroyal/Linux-Guide)** |
+|**[Arch Linux Guide](https://github.com/mikeroyal/Arch-Linux-Guide)**|**[BSD Guide](https://github.com/mikeroyal/BSD-Guide)** |
 | **Web/Mobile Development**| **--------------** |
 |**[Java Guide](https://github.com/mikeroyal/Java-Guide)**|**[Python Guide](https://github.com/mikeroyal/Python-Guide)**|
 |**[Ruby Guide](https://github.com/mikeroyal/Ruby-Guide)**|**[PHP Guide](https://github.com/mikeroyal/PHP-Guide)**|
@@ -93,11 +94,12 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[HTML/CSS Guide](https://github.com/mikeroyal/HTML-CSS-Guide)**|**[Bootstrap Guide](https://github.com/mikeroyal/Bootstrap-Guide)**|
 |**[Erlang Guide](https://github.com/mikeroyal/Erlang-Guide)**|**[Shopify Guide](https://github.com/mikeroyal/Shopify-Guide)**|
 |**[WordPress Guide](https://github.com/mikeroyal/WordPress-Guide)**|**[Wix Guide](https://github.com/mikeroyal/Wix-Guide)**|
-| **3D Graphics** |**--------------** | 
-|**[Autodesk Guide](https://github.com/mikeroyal/Autodesk-Guide)**|**[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)**|
-|**[3D Graphics & Design Guide](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)**|**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|
-|**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**|**[Lua Guide](https://github.com/mikeroyal/Lua-Guide)**|
-|**[Linear Algebra Guide](https://github.com/mikeroyal/Linear-Algebra-Guide)**|**[Algorithms Guide](https://github.com/mikeroyal/Algorithms-and-Data-Structures)**|
+| **3D Graphics** |**--------------** |
+|**[Autodesk Guide](https://github.com/mikeroyal/Autodesk-Guide)**|**[Blender Guide](https://github.com/mikeroyal/Blender-Guide)**
+**[Game Development Guide](https://github.com/mikeroyal/Game-Development-Guide)**|**[3D Graphics & Design Guide](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide)**|
+|**[CUDA Guide](https://github.com/mikeroyal/CUDA-Guide)**|**[Qt Guide](https://github.com/mikeroyal/Qt-Guide)**|
+|**[Lua Guide](https://github.com/mikeroyal/Lua-Guide)**|**[Linear Algebra Guide](https://github.com/mikeroyal/Linear-Algebra-Guide)**|
+|**[C/C++ Guide](https://github.com/mikeroyal/CPP-Guide)**|**[Algorithms Guide](https://github.com/mikeroyal/Algorithms-and-Data-Structures)**|
 | **Audio/Video Content Development**| **--------------** |
 |**[Audio and Video Editing Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide)**|**[Podcasting Guide](https://github.com/mikeroyal/Podcasting-Guide)**|
 | **Remote Workplace** |**--------------** | 
