@@ -41,8 +41,8 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Telco 5G Guide](https://github.com/mikeroyal/Telo-5G-Guide)**|**[Serverless Guide](https://github.com/mikeroyal/Serverless-Guide)**|
 |**[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**||
 | **Hardware**| **--------------**|
-|**[ARM64 Guide](https://github.com/mikeroyal/ARM-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
-|**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
+|**[ARM64 Guide](https://github.com/mikeroyal/ARM-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
+|**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
 |**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**| **[LabVIEW Guide](https://github.com/mikeroyal/LabVIEW-Guide)**|
 |**[Robotics Guide](https://github.com/mikeroyal/Robotics-guide)**|**[FPGA Guide](https://github.com/mikeroyal/FPGA-Guide)**|
 |**[LiDAR Guide](https://github.com/mikeroyal/LiDAR-Guide)**|**[Quantum Computing Guide](https://github.com/mikeroyal/Quantum-Computing-Guide)**|
