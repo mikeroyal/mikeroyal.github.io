@@ -39,7 +39,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Salesforce Guide](https://github.com/mikeroyal/Salesforce-Guide)**|**[Adobe Experience Cloud Guide](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide)**|
 |**[HashiCorp Cloud Platform Guide](https://github.com/mikeroyal/HashiCorp-Cloud-Guide)**|**[DigitalOcean Guide](https://github.com/mikeroyal/DigitalOcean-Guide)**|
 |**[Telco 5G Guide](https://github.com/mikeroyal/Telo-5G-Guide)**|**[Serverless Guide](https://github.com/mikeroyal/Serverless-Guide)**|
-|**[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**||
+|**[Cloud-Native Guide](https://github.com/mikeroyal/Cloud-Native-Guide)**|**[SQL/NoSQL DB Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide)**|
 | **Hardware**| **--------------**|
 |**[ARM64 Guide](https://github.com/mikeroyal/ARM-Guide)**|**[RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)**|
 |**[Internet of Things (IoT) Guide](https://github.com/mikeroyal/IoT-Guide)**|**[Raspberry Pi Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)**|
