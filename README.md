@@ -46,6 +46,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 |**[Arduino Guide](https://github.com/mikeroyal/Arduino-Guide)**| **[LabVIEW Guide](https://github.com/mikeroyal/LabVIEW-Guide)**|
 |**[Robotics Guide](https://github.com/mikeroyal/Robotics-guide)**|**[FPGA Guide](https://github.com/mikeroyal/FPGA-Guide)**|
 |**[LiDAR Guide](https://github.com/mikeroyal/LiDAR-Guide)**|**[Quantum Computing Guide](https://github.com/mikeroyal/Quantum-Computing-Guide)**|
+|**[Biometrics Guide](https://github.com/mikeroyal/Biometrics-Guide)**|**[Photonics Guide](https://github.com/mikeroyal/Photonics-Guide)**|
 |**[C/C++ Guide](https://github.com/mikeroyal/CPP-Guide)**|**[Rust Guide](https://github.com/mikeroyal/Rust_lang-Guide)**|
 |**[Assembly Guide](https://github.com/mikeroyal/Assembly-Guide)**|**[Verilog/SystemVerilog Guide](https://github.com/mikeroyal/Verilog-SystemVerilog-Guide)**|
 | **Artificial Intelligence (AI)** | **--------------** |
@@ -58,6 +59,7 @@ I am a highly motivated engineer who is able to bring key analytical problem-sol
 | **Security & Privacy**| **--------------** |
 |**[Open Source Security Guide](https://github.com/mikeroyal/Open-Source-Security-Guide)**|**[Differential Privacy Guide](https://github.com/mikeroyal/Differential-Privacy-Guide)**|
 |**[Networking Guide](https://github.com/mikeroyal/Networking-Guide)**|**[Blockchain Guide](https://github.com/mikeroyal/Blockchain-Guide)**|
+|**[Bioinformatics Guide](https://github.com/mikeroyal/Bioinformatics-Guide)**|**[Biometrics Guide](https://github.com/mikeroyal/Biometrics-Guide)**|
 | **DevOps**| **--------------** |
 |**[DevOps Tools Guide](https://github.com/mikeroyal/DevOps-Tools-Guide)**|**[Grafana Guide](https://github.com/mikeroyal/Grafana-Guide)**|
 |**[Windows Subsystem for Linux Guide](https://github.com/mikeroyal/WSL-Guide)**|**[Kubernetes Guide](https://github.com/mikeroyal/Kubernetes-Guide)**|
